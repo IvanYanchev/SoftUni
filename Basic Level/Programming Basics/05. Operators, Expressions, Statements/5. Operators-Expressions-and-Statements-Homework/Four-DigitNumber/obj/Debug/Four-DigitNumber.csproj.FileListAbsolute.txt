@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\Four-DigitNumber\bin\Debug\Four-DigitNumber.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb

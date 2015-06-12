@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

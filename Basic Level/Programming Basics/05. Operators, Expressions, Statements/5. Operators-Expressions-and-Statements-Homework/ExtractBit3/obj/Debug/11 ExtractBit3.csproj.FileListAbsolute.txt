@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\obj\Debug\ExtractBit3.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\obj\Debug\ExtractBit3.pdb
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBit3\bin\Debug\ExtractBit3.exe.config
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBit3\obj\Debug\ExtractBit3.exe
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\ExtractBit3\obj\Debug\ExtractBit3.pdb

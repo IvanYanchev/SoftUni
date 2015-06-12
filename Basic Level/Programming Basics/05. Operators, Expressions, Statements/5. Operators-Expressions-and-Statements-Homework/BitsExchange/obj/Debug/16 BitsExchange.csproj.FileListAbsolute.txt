@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\BitsExchange\obj\Debug\BitsExchange.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements-Homework\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements-Homework\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements-Homework\BitsExchange\obj\Debug\BitsExchange.pdb
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Ivan\OneDrive\Programming-Basics\Operators-Expressions-and-Statements-Homework\BitsExchange\obj\Debug\BitsExchange.pdb
