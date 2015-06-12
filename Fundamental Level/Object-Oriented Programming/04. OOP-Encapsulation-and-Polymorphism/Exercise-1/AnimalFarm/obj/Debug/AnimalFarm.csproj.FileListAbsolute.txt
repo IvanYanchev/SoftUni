@@ -1,0 +1,7 @@
+C:\Users\Filip Kolev\Desktop\oop\June-2015\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Ivan\Desktop\SOFTUNI\03 Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\obj\Debug\AnimalFarm.pdb

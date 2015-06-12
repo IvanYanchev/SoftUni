@@ -1,0 +1,10 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Defining-Classes-Homework\LaptopShop\obj\Debug\LaptopShop.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Defining-Classes-Homework\LaptopShop\obj\Debug\LaptopShop.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\LaptopShop\obj\Debug\LaptopShop.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\LaptopShop\bin\Debug\LaptopShop.pdb

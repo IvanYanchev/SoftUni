@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompanyHierarchy.CompanyHierarchy" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CompanyHierarchy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.Customer">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIIEAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Persons\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.Developer">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Persons\Developer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.Employee" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.Manager">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAACAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.Person" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgg=</HashCode>
+      <FileName>Persons\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.RegularEmployee" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\RegularEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Persons.SalesEmployee">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\SalesEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Structs.Project" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAAAgAAAIEAAgKAAAIACAAAAA=</HashCode>
+      <FileName>Structs\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyHierarchy.Structs.Sale" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAEAAAAAAAAAAAAAAABAAgAAQAIAAA=</HashCode>
+      <FileName>Structs\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CompanyHierarchy.Persons.Department" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persons\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CompanyHierarchy.Structs.State" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Structs\Project.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

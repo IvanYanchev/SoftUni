@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\obj\Debug\05 HtmlDispatcher.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\bin\Debug\HtmlDispatcher.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\bin\Debug\HtmlDispatcher.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\bin\Debug\HtmlDispatcher.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\obj\Debug\HtmlDispatcher.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\obj\Debug\HtmlDispatcher.pdb
