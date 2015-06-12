@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\20 OhMyGirl.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\OhMyGirl.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\OhMyGirl.pdb

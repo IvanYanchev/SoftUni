@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\bin\Debug\SumOfAllValues.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\obj\Debug\13 SumOfAllValues.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\SumOfAllValues\obj\Debug\SumOfAllValues.pdb

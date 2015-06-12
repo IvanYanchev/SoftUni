@@ -1,0 +1,12 @@
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\bin\Debug\SubsetSums.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\bin\Debug\SubsetSums.exe
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\bin\Debug\SubsetSums.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.exe
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.pdb
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\bin\Debug\SubsetSums.exe.config
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.exe
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\bin\Debug\SubsetSums.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SubsetSums\obj\Debug\SubsetSums.pdb

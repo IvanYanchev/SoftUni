@@ -1,0 +1,1 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\CopyBinaryFile\bin\Debug\CopyBinaryFile.exe.config

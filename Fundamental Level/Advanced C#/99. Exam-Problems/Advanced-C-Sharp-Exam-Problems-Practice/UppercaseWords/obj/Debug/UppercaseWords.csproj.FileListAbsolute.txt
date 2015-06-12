@@ -1,0 +1,1 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\UppercaseWords\bin\Debug\UppercaseWords.exe.config

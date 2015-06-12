@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\obj\Debug\01 SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

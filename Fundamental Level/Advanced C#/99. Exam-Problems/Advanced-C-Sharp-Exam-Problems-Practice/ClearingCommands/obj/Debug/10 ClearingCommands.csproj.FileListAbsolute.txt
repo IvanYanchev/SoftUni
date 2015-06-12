@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\bin\Debug\ClearingCommands.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\bin\Debug\ClearingCommands.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\bin\Debug\ClearingCommands.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\obj\Debug\10 ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\obj\Debug\ClearingCommands.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\ClearingCommands\obj\Debug\ClearingCommands.pdb

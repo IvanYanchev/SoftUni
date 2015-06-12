@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\bin\Debug\SemanticHTML.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\bin\Debug\SemanticHTML.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\bin\Debug\SemanticHTML.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\obj\Debug\09 SemanticHTML.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\obj\Debug\SemanticHTML.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\SemanticHTML\obj\Debug\SemanticHTML.pdb

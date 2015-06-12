@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\obj\Debug\06 ExtractHyperlinks.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Regular-Expressions-Homework\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.pdb

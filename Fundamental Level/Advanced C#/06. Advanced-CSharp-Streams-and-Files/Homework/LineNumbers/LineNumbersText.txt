@@ -1,0 +1,68 @@
+  0 using System;
+  1 using System.Collections.Generic;
+  2 using System.Linq;
+  3 using System.Text;
+  4 using System.Text.RegularExpressions;
+  5 using System.Threading.Tasks;
+  6 
+  7 namespace SemanticHTML
+  8 {
+  9     class SemanticHTML
+ 10     {
+ 11         static void Main(string[] args)
+ 12         {
+ 13             List<string> allowedTags = new List<string>() { "main", "header", "nav", "article", "section", "aside", "footer" };
+ 14 
+ 15             while (true)
+ 16             {
+ 17                 string inputText = Console.ReadLine();
+ 18                 if (inputText == "END")
+ 19                 {
+ 20                     break;
+ 21                 }
+ 22 
+ 23                 //check if the input text is a line with ref start
+ 24                 string refPatternStart = @"<div[^>]+>";
+ 25                 Match matchRefStart = Regex.Match(inputText, refPatternStart);
+ 26                 string outputText = inputText;
+ 27 
+ 28                 if (matchRefStart.Success)
+ 29                 {
+ 30                     string tagPattern = @"(id|class)\s?=\s?""(\w+)""";
+ 31                     Match matchTag = Regex.Match(matchRefStart.Value, tagPattern);
+ 32 
+ 33                     if (allowedTags.Contains(matchTag.Groups[1].Value))
+ 34                     {
+ 35                         outputText = Regex.Replace(inputText, "div", matchTag.Groups[1].Value);
+ 36                         outputText = Regex.Replace(outputText, matchTag.Value, "");
+ 37                     }
+ 38                     // remove multiple whitespaces
+ 39                     string multipleSpacesPattern = @"\S(\s{2,})[^>\s]";
+ 40                     MatchCollection matchedSpaces = Regex.Matches(outputText, multipleSpacesPattern);
+ 41                     foreach (Match match in matchedSpaces)
+ 42                     {
+ 43                         outputText = Regex.Replace(outputText, match.Groups[1].Value, " ");
+ 44                     }
+ 45                     // remove whitespaces at the end
+ 46                     string spacesAtEndPattern = @"\S(\s+>)";
+ 47                     Match spacesAtEnd = Regex.Match(outputText, spacesAtEndPattern);
+ 48                     if (spacesAtEnd.Success)
+ 49                     {
+ 50                         outputText = Regex.Replace(outputText, spacesAtEnd.Groups[1].Value, ">");
+ 51                     }
+ 52                 }
+ 53 
+ 54                 // check if the input text is line with ref end
+ 55                 string refPatternEnd = @"<\/div>([^\w]+(\w+)[^\w]+)";
+ 56                 Match matchTagEnd = Regex.Match(inputText, refPatternEnd);
+ 57                 if (matchTagEnd.Success && allowedTags.Contains(matchTagEnd.Groups[2].Value))
+ 58                 {
+ 59                     outputText = Regex.Replace(inputText, "div", matchTagEnd.Groups[2].Value);
+ 60                     outputText = Regex.Replace(outputText, matchTagEnd.Groups[1].Value, "");
+ 61                 }
+ 62 
+ 63                 Console.WriteLine(outputText);
+ 64             }
+ 65         }
+ 66     }
+ 67 }

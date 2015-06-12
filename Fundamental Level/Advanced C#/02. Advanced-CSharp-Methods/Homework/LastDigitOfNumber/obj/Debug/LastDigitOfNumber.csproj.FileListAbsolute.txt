@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

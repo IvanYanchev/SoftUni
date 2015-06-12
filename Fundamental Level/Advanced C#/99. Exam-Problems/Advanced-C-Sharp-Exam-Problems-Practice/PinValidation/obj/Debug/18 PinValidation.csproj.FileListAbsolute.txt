@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\18 PinValidation.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\PinValidation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\PinValidation.pdb

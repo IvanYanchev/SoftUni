@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\bin\Debug\LinqToExcel.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\bin\Debug\LinqToExcel.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\bin\Debug\LinqToExcel.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\obj\Debug\LinqToExcel.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\obj\Debug\LinqToExcel.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\obj\Debug\LinqToExcel.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\bin\Debug\EPPlus.dll
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Functional-Programming-Homework\LinqToExcel\bin\Debug\EPPlus.xml

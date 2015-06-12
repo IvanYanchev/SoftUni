@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\StringLength\bin\Debug\StringLength.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\StringLength\bin\Debug\StringLength.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\StringLength\bin\Debug\StringLength.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\StringLength\obj\Debug\StringLength.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\StringLength\obj\Debug\StringLength.pdb
