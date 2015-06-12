@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\House\bin\Debug\House.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\House\bin\Debug\House.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\House\bin\Debug\House.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\House\obj\Debug\House.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\House\obj\Debug\House.pdb
