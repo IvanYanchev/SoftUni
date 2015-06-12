@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\bin\Debug\Boat.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\bin\Debug\Boat.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\bin\Debug\Boat.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\obj\Debug\Boat.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\Boat\obj\Debug\Boat.pdb

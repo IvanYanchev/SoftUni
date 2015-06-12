@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\bin\Debug\Headphones.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\bin\Debug\Headphones.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\bin\Debug\Headphones.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\obj\Debug\Headphones.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\obj\Debug\Headphones.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\Headphones\obj\Debug\Headphones.pdb

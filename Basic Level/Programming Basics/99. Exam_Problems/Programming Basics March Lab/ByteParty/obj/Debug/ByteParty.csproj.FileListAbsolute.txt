@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\bin\Debug\ByteParty.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\bin\Debug\ByteParty.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\bin\Debug\ByteParty.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\obj\Debug\ByteParty.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\obj\Debug\ByteParty.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Programming Basics March Lab\ByteParty\obj\Debug\ByteParty.pdb

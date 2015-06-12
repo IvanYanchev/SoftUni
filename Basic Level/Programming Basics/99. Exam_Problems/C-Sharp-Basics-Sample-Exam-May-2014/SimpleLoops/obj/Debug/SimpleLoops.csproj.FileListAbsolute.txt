@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\bin\Debug\SimpleLoops.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\bin\Debug\SimpleLoops.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\obj\Debug\SimpleLoops.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\obj\Debug\SimpleLoops.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\SimpleLoops\obj\Debug\SimpleLoops.csprojResolveAssemblyReference.cache

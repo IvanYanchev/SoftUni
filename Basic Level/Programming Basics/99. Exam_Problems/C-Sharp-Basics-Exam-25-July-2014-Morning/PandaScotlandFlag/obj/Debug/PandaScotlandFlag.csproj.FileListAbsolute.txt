@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\bin\Debug\PandaScotlandFlag.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\PandaScotlandFlag\obj\Debug\PandaScotlandFlag.csprojResolveAssemblyReference.cache

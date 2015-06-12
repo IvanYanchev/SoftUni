@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\bin\Debug\BiggestTriple.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\bin\Debug\BiggestTriple.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\obj\Debug\BiggestTriple.exe
+c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BiggestTriple\obj\Debug\BiggestTriple.pdb

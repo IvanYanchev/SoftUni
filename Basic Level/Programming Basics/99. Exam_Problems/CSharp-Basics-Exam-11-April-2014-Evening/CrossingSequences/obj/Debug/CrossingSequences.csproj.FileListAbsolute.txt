@@ -1,0 +1,6 @@
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\bin\Debug\CrossingSequences.exe.config
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\bin\Debug\CrossingSequences.exe
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\bin\Debug\CrossingSequences.pdb
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\obj\Debug\CrossingSequences.csprojResolveAssemblyReference.cache
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\obj\Debug\CrossingSequences.exe
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\CrossingSequences\obj\Debug\CrossingSequences.pdb

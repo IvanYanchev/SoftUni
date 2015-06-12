@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard_Авторско_решение\bin\Debug\SpyHard_Авторско_решение.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard_Авторско_решение\bin\Debug\SpyHard_Авторско_решение.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard_Авторско_решение\bin\Debug\SpyHard_Авторско_решение.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard_Авторско_решение\obj\Debug\SpyHard_Авторско_решение.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard_Авторско_решение\obj\Debug\SpyHard_Авторско_решение.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Evening\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\bin\Debug\BitLock.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\bin\Debug\BitLock.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\bin\Debug\BitLock.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\obj\Debug\BitLock.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-20-December-2014\BitLock\obj\Debug\BitLock.pdb

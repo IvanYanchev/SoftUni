@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\bin\Debug\BitShooter.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\bin\Debug\BitShooter.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\bin\Debug\BitShooter.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\obj\Debug\BitShooter.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\BitShooter\obj\Debug\BitShooter.pdb

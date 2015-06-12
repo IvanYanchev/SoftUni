@@ -1,0 +1,6 @@
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\bin\Debug\Illuminati.exe.config
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\bin\Debug\Illuminati.exe
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\bin\Debug\Illuminati.pdb
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\obj\Debug\Illuminati.exe
+c:\Users\Ivan\documents\visual studio 2013\Projects\Cinema\Illuminati\obj\Debug\Illuminati.pdb
