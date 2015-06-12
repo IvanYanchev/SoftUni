@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\bin\Debug\TrailingZeroesInNFactorel.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\bin\Debug\TrailingZeroesInNFactorel.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\bin\Debug\TrailingZeroesInNFactorel.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\obj\Debug\TrailingZeroesInNFactorel.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\obj\Debug\TrailingZeroesInNFactorel.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\TrailingZeroesInNFactorel\obj\Debug\TrailingZeroesInNFactorel.pdb

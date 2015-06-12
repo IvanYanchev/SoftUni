@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggerNumber", "BiggerNumber\BiggerNumber.csproj", "{9B135A91-9EB8-4BA9-B70D-9979C9304013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 BiggerNumber", "01 BiggerNumber\01 BiggerNumber.csproj", "{9B135A91-9EB8-4BA9-B70D-9979C9304013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastDigitOfNumber", "LastDigitOfNumber\LastDigitOfNumber.csproj", "{6EA8B72F-3DDF-4AA1-9505-F4CFAB6AF0CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 LastDigitOfNumber", "02 LastDigitOfNumber\02 LastDigitOfNumber.csproj", "{6EA8B72F-3DDF-4AA1-9505-F4CFAB6AF0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargerThanNeighbours", "LargerThanNeighbours\LargerThanNeighbours.csproj", "{81DD1E8F-7372-4B19-987A-F44FF1242C3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 LargerThanNeighbours", "03 LargerThanNeighbours\03 LargerThanNeighbours.csproj", "{81DD1E8F-7372-4B19-987A-F44FF1242C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLargerThanNeighbours", "FirstLargerThanNeighbours\FirstLargerThanNeighbours.csproj", "{79E13A7B-AA20-4C6B-8F5B-CF5BD0A816DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 FirstLargerThanNeighbours", "04 FirstLargerThanNeighbours\04 FirstLargerThanNeighbours.csproj", "{79E13A7B-AA20-4C6B-8F5B-CF5BD0A816DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumber", "ReverseNumber\ReverseNumber.csproj", "{E145334E-C981-4FD5-B8C4-DC74CF9FD5C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 ReverseNumber", "05 ReverseNumber\05 ReverseNumber.csproj", "{E145334E-C981-4FD5-B8C4-DC74CF9FD5C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberCalculations", "NumberCalculations\NumberCalculations.csproj", "{9D21E53E-2C7F-4380-9A94-41DF6649DB92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 NumberCalculations", "06 NumberCalculations\06 NumberCalculations.csproj", "{9D21E53E-2C7F-4380-9A94-41DF6649DB92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericArraySort", "GenericArraySort\GenericArraySort.csproj", "{0D81187D-3CED-46FF-8448-F2B5705029FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 GenericArraySort", "07 GenericArraySort\07 GenericArraySort.csproj", "{0D81187D-3CED-46FF-8448-F2B5705029FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

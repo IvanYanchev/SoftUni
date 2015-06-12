@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 SquareRoot", "SquareRoot\01 SquareRoot.csproj", "{DA07052F-F432-4C34-881E-2F9D39FAEFA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 SquareRoot", "01 SquareRoot\01 SquareRoot.csproj", "{DA07052F-F432-4C34-881E-2F9D39FAEFA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 EnterNumbers", "EnterNumbers\02 EnterNumbers.csproj", "{17010630-4A50-4889-8C59-0C24E43F6244}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 EnterNumbers", "02 EnterNumbers\02 EnterNumbers.csproj", "{17010630-4A50-4889-8C59-0C24E43F6244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

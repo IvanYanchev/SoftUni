@@ -1,0 +1,12 @@
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\bin\Debug\BookShop.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\01 BookShop.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\BookShop.exe
+c:\users\ivan\documents\visual studio 2013\Projects\OOP-Inheritance-and-Abstraction-Exercise\BookShop\obj\Debug\BookShop.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\obj\Debug\BookShop.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\obj\Debug\BookShop.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\bin\Debug\BookShop.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\bin\Debug\BookShop.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\03. OOP-Inheritance-and-Abstraction\Exercise\01 BookShop\obj\Debug\01 BookShop.csprojResolveAssemblyReference.cache

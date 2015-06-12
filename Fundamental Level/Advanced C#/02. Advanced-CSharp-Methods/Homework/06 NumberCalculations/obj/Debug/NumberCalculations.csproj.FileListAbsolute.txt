@@ -1,0 +1,8 @@
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\obj\Debug\NumberCalculations.exe
+c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\obj\Debug\NumberCalculations.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Methods\Homework\06 NumberCalculations\bin\Debug\NumberCalculations.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Methods\Homework\06 NumberCalculations\obj\Debug\NumberCalculations.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Methods\Homework\06 NumberCalculations\obj\Debug\NumberCalculations.pdb

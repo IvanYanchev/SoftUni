@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\bin\Debug\BiggestTableRow.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\bin\Debug\BiggestTableRow.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\obj\Debug\17 BiggestTableRow.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\obj\Debug\BiggestTableRow.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\BiggestTableRow\obj\Debug\BiggestTableRow.pdb

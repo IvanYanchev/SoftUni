@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\PrintaDeckOf52Cards\obj\Debug\PrintaDeckOf52Cards.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\PrintaDeckOf52Cards\obj\Debug\PrintaDeckOf52Cards.pdb

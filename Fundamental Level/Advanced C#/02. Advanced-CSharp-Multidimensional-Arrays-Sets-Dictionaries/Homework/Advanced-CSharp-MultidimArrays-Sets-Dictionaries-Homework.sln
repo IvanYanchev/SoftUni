@@ -3,31 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillTheMatrix", "FillTheMatrix\FillTheMatrix.csproj", "{982A305E-AE96-404F-95DB-8BB374A8CD04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 FillTheMatrix", "01 FillTheMatrix\01 FillTheMatrix.csproj", "{982A305E-AE96-404F-95DB-8BB374A8CD04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{13128BE6-19D0-45DD-BB8A-36E08451DC3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 MaximalSum", "02 MaximalSum\02 MaximalSum.csproj", "{13128BE6-19D0-45DD-BB8A-36E08451DC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{C329B1CC-1007-4B0E-B18A-25751186E02C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 MatrixShuffling", "03 MatrixShuffling\03 MatrixShuffling.csproj", "{C329B1CC-1007-4B0E-B18A-25751186E02C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceInMatrix", "SequenceInMatrix\SequenceInMatrix.csproj", "{9CBDCAD9-81B5-4A0E-8B17-D07653900AFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 SequenceInMatrix", "04 SequenceInMatrix\04 SequenceInMatrix.csproj", "{9CBDCAD9-81B5-4A0E-8B17-D07653900AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectTheCoins", "CollectTheCoins\CollectTheCoins.csproj", "{C52A4CDD-394A-4658-9906-278F05476BF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 CollectTheCoins", "05 CollectTheCoins\05 CollectTheCoins.csproj", "{C52A4CDD-394A-4658-9906-278F05476BF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSymbols", "CountSymbols\CountSymbols.csproj", "{85519129-211B-435E-80FD-B793171BAA3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 CountSymbols", "06 CountSymbols\06 CountSymbols.csproj", "{85519129-211B-435E-80FD-B793171BAA3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{CF28F400-57E2-426A-8933-63D3B2B2AEE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Phonebook", "07 Phonebook\07 Phonebook.csproj", "{CF28F400-57E2-426A-8933-63D3B2B2AEE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightLife", "NightLife\NightLife.csproj", "{C2AE1455-BAAF-40ED-B959-C65A21A91868}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 NightLife", "08 NightLife\08 NightLife.csproj", "{C2AE1455-BAAF-40ED-B959-C65A21A91868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerroristsWin!", "TerroristsWin!\TerroristsWin!.csproj", "{D70BBA4C-17FD-4479-82AD-2B96A2BCDE37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 TerroristsWin!", "09 TerroristsWin!\09 TerroristsWin!.csproj", "{D70BBA4C-17FD-4479-82AD-2B96A2BCDE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus-Remove", "Plus-Remove\Plus-Remove.csproj", "{E394E68D-47CF-4432-9F40-E7B739AD55D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Plus-Remove", "10 Plus-Remove\10 Plus-Remove.csproj", "{E394E68D-47CF-4432-9F40-E7B739AD55D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatrixRotation", "StringMatrixRotation\StringMatrixRotation.csproj", "{C32AF1DD-7782-4ABA-ADA4-5DDCB33DE522}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 StringMatrixRotation", "11 StringMatrixRotation\11 StringMatrixRotation.csproj", "{C32AF1DD-7782-4ABA-ADA4-5DDCB33DE522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToTheStars!", "ToTheStars!\ToTheStars!.csproj", "{FFE62A34-9478-485F-A1AD-EDE7341A5606}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 ToTheStars!", "12 ToTheStars!\12 ToTheStars!.csproj", "{FFE62A34-9478-485F-A1AD-EDE7341A5606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivityTracker", "ActivityTracker\ActivityTracker.csproj", "{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 ActivityTracker", "13 ActivityTracker\13 ActivityTracker.csproj", "{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

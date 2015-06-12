@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\10 OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\10 OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\10 OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

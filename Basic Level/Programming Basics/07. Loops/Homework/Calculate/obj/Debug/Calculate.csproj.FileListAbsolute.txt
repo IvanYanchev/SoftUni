@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\obj\Debug\Calculate.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\obj\Debug\Calculate.pdb

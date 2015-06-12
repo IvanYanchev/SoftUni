@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\bin\Debug\PinValidation.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\18 PinValidation.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\PinValidation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\PinValidation\obj\Debug\PinValidation.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\18 PinValidation\bin\Debug\PinValidation.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\18 PinValidation\obj\Debug\PinValidation.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\18 PinValidation\obj\Debug\PinValidation.pdb

@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\bin\Debug\NthDigit.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\bin\Debug\NthDigit.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\bin\Debug\NthDigit.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\obj\Debug\NthDigit.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\obj\Debug\NthDigit.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\NthDigit\obj\Debug\NthDigit.pdb

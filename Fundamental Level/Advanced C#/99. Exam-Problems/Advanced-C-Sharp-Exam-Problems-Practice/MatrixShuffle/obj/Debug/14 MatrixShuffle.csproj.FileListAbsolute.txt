@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\bin\Debug\MatrixShuffle.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\bin\Debug\MatrixShuffle.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\bin\Debug\MatrixShuffle.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\obj\Debug\14 MatrixShuffle.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\obj\Debug\MatrixShuffle.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\MatrixShuffle\obj\Debug\MatrixShuffle.pdb

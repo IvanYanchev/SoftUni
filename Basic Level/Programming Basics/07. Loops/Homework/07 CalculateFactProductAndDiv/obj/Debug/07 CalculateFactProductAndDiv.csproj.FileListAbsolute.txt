@@ -1,0 +1,3 @@
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\07 CalculateFactProductAndDiv\bin\Debug\07 Calculate.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\07 CalculateFactProductAndDiv\obj\Debug\07 Calculate.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\07 CalculateFactProductAndDiv\obj\Debug\07 Calculate.pdb

@@ -3,37 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 SumOf3Numbers", "SumOf3Numbers\01 SumOf3Numbers.csproj", "{7DACF1B8-30D6-476C-8E6D-483B2A533B64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 SumOf3Numbers", "01 SumOf3Numbers\01 SumOf3Numbers.csproj", "{7DACF1B8-30D6-476C-8E6D-483B2A533B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 PrintCompanyInformation", "PrintCompanyInformation\02 PrintCompanyInformation.csproj", "{D6DAECC6-B735-41DD-80CE-88AE8C33E57D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 PrintCompanyInformation", "02 PrintCompanyInformation\02 PrintCompanyInformation.csproj", "{D6DAECC6-B735-41DD-80CE-88AE8C33E57D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CirclePerimeterAndArea", "CirclePerimeterAndArea\03 CirclePerimeterAndArea.csproj", "{2B0752B6-3DA7-48CC-9ADF-10252E509B99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CirclePerimeterAndArea", "03 CirclePerimeterAndArea\03 CirclePerimeterAndArea.csproj", "{2B0752B6-3DA7-48CC-9ADF-10252E509B99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 NumberComparer", "NumberComparer\04 NumberComparer.csproj", "{2C02C254-97CA-4999-A60B-C9D6F94CE9B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 NumberComparer", "04 NumberComparer\04 NumberComparer.csproj", "{2C02C254-97CA-4999-A60B-C9D6F94CE9B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 FormattingNumbers", "FormattingNumbers\05 FormattingNumbers.csproj", "{E311C260-451A-47E9-9904-D8FF83906202}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 FormattingNumbers", "05 FormattingNumbers\05 FormattingNumbers.csproj", "{E311C260-451A-47E9-9904-D8FF83906202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 QuadraticEquation", "QuadraticEquation\06 QuadraticEquation.csproj", "{4230F985-6655-4377-88E4-2D72B2E82795}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 QuadraticEquation", "06 QuadraticEquation\06 QuadraticEquation.csproj", "{4230F985-6655-4377-88E4-2D72B2E82795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 SumOf5Numbers", "SumOf5Numbers\07 SumOf5Numbers.csproj", "{64976826-450A-4D53-8AED-99A13736A63C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 SumOf5Numbers", "07 SumOf5Numbers\07 SumOf5Numbers.csproj", "{64976826-450A-4D53-8AED-99A13736A63C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 NumbersFrom1ToN", "NumbersFrom1ToN\08 NumbersFrom1ToN.csproj", "{8676D36D-81F6-4542-A5AB-990BF3F11E4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 NumbersFrom1ToN", "08 NumbersFrom1ToN\08 NumbersFrom1ToN.csproj", "{8676D36D-81F6-4542-A5AB-990BF3F11E4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 SumOfNNumbers", "SumOfnNumbers\09 SumOfNNumbers.csproj", "{F365D02B-7E2D-46D5-93A2-E2960BAFF2FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 SumOfNNumbers", "09 SumOfnNumbers\09 SumOfNNumbers.csproj", "{F365D02B-7E2D-46D5-93A2-E2960BAFF2FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 FibonacciNumbers", "FibonacciNumbers\10 FibonacciNumbers.csproj", "{3367886D-B407-422C-AF16-884405C4AD72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 FibonacciNumbers", "10 FibonacciNumbers\10 FibonacciNumbers.csproj", "{3367886D-B407-422C-AF16-884405C4AD72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 NumbersInIntervalDividableByGivenNumber", "NumbersInIntervalDividableByGivenNumber\11 NumbersInIntervalDividableByGivenNumber.csproj", "{2709C927-0B11-42E9-9487-F6768D406678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 NumbersInIntervalDividableByGivenNumber", "11 NumbersInIntervalDividableByGivenNumber\11 NumbersInIntervalDividableByGivenNumber.csproj", "{2709C927-0B11-42E9-9487-F6768D406678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 WorkHours", "WorkHours\13 WorkHours.csproj", "{8C5B859B-5FAD-41FA-ACBA-8FDCAF9CF6DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 FallingRocks", "12 FallingRocks\12 FallingRocks.csproj", "{2C68FE77-B5E9-4024-A440-09CA2D9AFADC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 SumOfElements", "SumOfElements\14 SumOfElements.csproj", "{DEBDDDA6-2496-4509-9F29-DBDF82FD1B53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 WorkHours", "13 WorkHours\13 WorkHours.csproj", "{8C5B859B-5FAD-41FA-ACBA-8FDCAF9CF6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 NewHouse", "NewHouse\15 NewHouse.csproj", "{905B98EF-33D3-4472-93F0-A1A3C04486E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 SumOfElements", "14 SumOfElements\14 SumOfElements.csproj", "{DEBDDDA6-2496-4509-9F29-DBDF82FD1B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 MagicStrings", "MagicStrings\16 MagicStrings.csproj", "{E7B3BEF7-F327-4C91-A242-6483CFDA47A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 NewHouse", "15 NewHouse\15 NewHouse.csproj", "{905B98EF-33D3-4472-93F0-A1A3C04486E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 CatchTheBits", "CatchTheBits\17 CatchTheBits.csproj", "{F442619A-8AA0-45A5-B957-751FB1D04BC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 MagicStrings", "16 MagicStrings\16 MagicStrings.csproj", "{E7B3BEF7-F327-4C91-A242-6483CFDA47A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 CatchTheBits", "17 CatchTheBits\17 CatchTheBits.csproj", "{F442619A-8AA0-45A5-B957-751FB1D04BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{2709C927-0B11-42E9-9487-F6768D406678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2709C927-0B11-42E9-9487-F6768D406678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2709C927-0B11-42E9-9487-F6768D406678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C68FE77-B5E9-4024-A440-09CA2D9AFADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C68FE77-B5E9-4024-A440-09CA2D9AFADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C68FE77-B5E9-4024-A440-09CA2D9AFADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C68FE77-B5E9-4024-A440-09CA2D9AFADC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8C5B859B-5FAD-41FA-ACBA-8FDCAF9CF6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8C5B859B-5FAD-41FA-ACBA-8FDCAF9CF6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5B859B-5FAD-41FA-ACBA-8FDCAF9CF6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU

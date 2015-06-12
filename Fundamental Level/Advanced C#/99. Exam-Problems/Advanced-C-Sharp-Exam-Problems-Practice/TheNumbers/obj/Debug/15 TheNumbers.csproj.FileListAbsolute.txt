@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\bin\Debug\TheNumbers.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\bin\Debug\TheNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\bin\Debug\TheNumbers.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\obj\Debug\15 TheNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\obj\Debug\TheNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\TheNumbers\obj\Debug\TheNumbers.pdb

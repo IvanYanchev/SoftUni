@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\bin\Debug\Variations.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\bin\Debug\Variations.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\bin\Debug\Variations.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\obj\Debug\Variations.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\obj\Debug\Variations.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\Variations\obj\Debug\Variations.pdb

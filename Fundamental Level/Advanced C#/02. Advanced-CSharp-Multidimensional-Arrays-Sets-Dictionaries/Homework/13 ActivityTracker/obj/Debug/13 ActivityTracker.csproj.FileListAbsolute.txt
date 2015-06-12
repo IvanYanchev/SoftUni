@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\bin\Debug\ActivityTracker.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\bin\Debug\ActivityTracker.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\bin\Debug\ActivityTracker.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\obj\Debug\13 ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\obj\Debug\ActivityTracker.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\13 ActivityTracker\obj\Debug\ActivityTracker.pdb

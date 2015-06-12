@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 ReverseString", "ReverseString\01 ReverseString.csproj", "{AEDE1EE8-AD3D-4398-A043-5C31C96FDCEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 ReverseString", "01 ReverseString\01 ReverseString.csproj", "{AEDE1EE8-AD3D-4398-A043-5C31C96FDCEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 StringLength", "StringLength\02 StringLength.csproj", "{C186FBD1-15F9-4CA4-A2A2-5557F4C4A6AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 StringLength", "02 StringLength\02 StringLength.csproj", "{C186FBD1-15F9-4CA4-A2A2-5557F4C4A6AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CountSubstringOccurrences", "CountSubstringOccurrences\03 CountSubstringOccurrences.csproj", "{A74F7079-5EE8-42AE-AEE2-97B779880B58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CountSubstringOccurrences", "03 CountSubstringOccurrences\03 CountSubstringOccurrences.csproj", "{A74F7079-5EE8-42AE-AEE2-97B779880B58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 TextFilter", "TextFilter\04 TextFilter.csproj", "{64CAE901-D9E0-4E27-9E8E-8C5AF1B9F62C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 TextFilter", "04 TextFilter\04 TextFilter.csproj", "{64CAE901-D9E0-4E27-9E8E-8C5AF1B9F62C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 UnicodeCharacters", "UnicodeCharacters\05 UnicodeCharacters.csproj", "{F9117BF8-91E7-444D-BF5C-FE5A8DA7898E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 UnicodeCharacters", "05 UnicodeCharacters\05 UnicodeCharacters.csproj", "{F9117BF8-91E7-444D-BF5C-FE5A8DA7898E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Palindromes", "Palindromes\06 Palindromes.csproj", "{EE2CE5AA-FE91-4E27-BE09-6B0B86554F0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Palindromes", "06 Palindromes\06 Palindromes.csproj", "{EE2CE5AA-FE91-4E27-BE09-6B0B86554F0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 LettersChangeNumbers", "LettersChangeNumbers\07 LettersChangeNumbers.csproj", "{B80C8E75-5D75-4DFF-A8D0-6D3D3C93806F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 LettersChangeNumbers", "07 LettersChangeNumbers\07 LettersChangeNumbers.csproj", "{B80C8E75-5D75-4DFF-A8D0-6D3D3C93806F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\bin\Debug\LittleJohn.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\bin\Debug\LittleJohn.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\bin\Debug\LittleJohn.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\obj\Debug\11 LittleJohn.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\obj\Debug\LittleJohn.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\LittleJohn\obj\Debug\LittleJohn.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\bin\Debug\LittleJohn.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\obj\Debug\LittleJohn.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\obj\Debug\LittleJohn.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\bin\Debug\LittleJohn.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\bin\Debug\LittleJohn.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\11 LittleJohn\obj\Debug\11 LittleJohn.csprojResolveAssemblyReference.cache

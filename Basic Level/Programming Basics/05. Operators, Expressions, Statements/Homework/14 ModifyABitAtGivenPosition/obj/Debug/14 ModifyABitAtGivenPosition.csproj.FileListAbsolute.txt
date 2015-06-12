@@ -1,0 +1,8 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\14 ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\14 ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\14 ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb

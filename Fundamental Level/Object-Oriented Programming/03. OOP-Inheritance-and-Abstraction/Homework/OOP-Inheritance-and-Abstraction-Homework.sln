@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 HumanStudentAndWorker", "HumanStudentAndWorker\01 HumanStudentAndWorker.csproj", "{348677A6-04D2-4ACE-8C43-152AB1CFA9F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 HumanStudentAndWorker", "01 HumanStudentAndWorker\01 HumanStudentAndWorker.csproj", "{348677A6-04D2-4ACE-8C43-152AB1CFA9F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Animals", "Animals\02 Animals.csproj", "{1D530C6B-D49F-417D-A432-127FF0391BD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Animals", "02 Animals\02 Animals.csproj", "{1D530C6B-D49F-417D-A432-127FF0391BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CompanyHierarchy", "CompanyHierarchy\03 CompanyHierarchy.csproj", "{BCA510F0-D6C6-4EE5-ABB9-CF74109539D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CompanyHierarchy", "03 CompanyHierarchy\03 CompanyHierarchy.csproj", "{BCA510F0-D6C6-4EE5-ABB9-CF74109539D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\PureDivisor\bin\Debug\PureDivisor.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\PureDivisor\bin\Debug\PureDivisor.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\PureDivisor\bin\Debug\PureDivisor.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\PureDivisor\obj\Debug\PureDivisor.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\PureDivisor\obj\Debug\PureDivisor.pdb

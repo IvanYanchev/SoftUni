@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\bin\Debug\BitRoller.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\bin\Debug\BitRoller.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\bin\Debug\BitRoller.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\obj\Debug\BitRoller.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BitRoller\obj\Debug\BitRoller.pdb

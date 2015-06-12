@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 OddLines", "OddLines\01 OddLines.csproj", "{DE90BC0B-5C3C-43FA-9311-DD9CE9DED079}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 OddLines", "01 OddLines\01 OddLines.csproj", "{DE90BC0B-5C3C-43FA-9311-DD9CE9DED079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 LineNumbers", "LineNumbers\02 LineNumbers.csproj", "{FA6DA304-2F4A-4AE6-8346-7DDCE44C4083}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 LineNumbers", "02 LineNumbers\02 LineNumbers.csproj", "{FA6DA304-2F4A-4AE6-8346-7DDCE44C4083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 WordCount", "WordCount\03 WordCount.csproj", "{7E112017-3F77-4FA6-B802-79CE0D27E239}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 WordCount", "03 WordCount\03 WordCount.csproj", "{7E112017-3F77-4FA6-B802-79CE0D27E239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 CopyBinaryFile", "CopyBinaryFile\04 CopyBinaryFile.csproj", "{2A838D8F-1175-47F5-BB28-CA6045EDF89F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 CopyBinaryFile", "04 CopyBinaryFile\04 CopyBinaryFile.csproj", "{2A838D8F-1175-47F5-BB28-CA6045EDF89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 SlicingFile", "SlicingFile\05 SlicingFile.csproj", "{4EF88359-621E-4122-92E9-A987BE8ECEF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 SlicingFile", "05 SlicingFile\05 SlicingFile.csproj", "{4EF88359-621E-4122-92E9-A987BE8ECEF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 ZippingSlicedFiles", "ZippingSlicedFiles\06 ZippingSlicedFiles.csproj", "{A90536D7-C1BF-438D-B7ED-4F8F7AD57987}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 ZippingSlicedFiles", "06 ZippingSlicedFiles\06 ZippingSlicedFiles.csproj", "{A90536D7-C1BF-438D-B7ED-4F8F7AD57987}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

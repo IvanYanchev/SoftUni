@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\bin\Debug\OddEvenElements.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\bin\Debug\OddEvenElements.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\obj\Debug\OddEvenElements.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\OddEvenElements\obj\Debug\OddEvenElements.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\21 OddEvenElements\bin\Debug\OddEvenElements.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\21 OddEvenElements\obj\Debug\OddEvenElements.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\21 OddEvenElements\obj\Debug\OddEvenElements.pdb

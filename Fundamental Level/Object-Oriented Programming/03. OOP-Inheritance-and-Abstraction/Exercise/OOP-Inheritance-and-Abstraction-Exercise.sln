@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 BookShop", "BookShop\01 BookShop.csproj", "{EC4D44C0-C508-41B3-8E8A-4089D507DFE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 BookShop", "01 BookShop\01 BookShop.csproj", "{EC4D44C0-C508-41B3-8E8A-4089D507DFE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 WorkingWithAbstraction", "WorkingWithAbstraction\02 WorkingWithAbstraction.csproj", "{7488C632-130E-4C52-AB62-D7A533071774}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 WorkingWithAbstraction", "02 WorkingWithAbstraction\02 WorkingWithAbstraction.csproj", "{7488C632-130E-4C52-AB62-D7A533071774}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

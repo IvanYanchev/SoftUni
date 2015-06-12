@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\bin\Debug\CalculateGCD.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\bin\Debug\CalculateGCD.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\bin\Debug\CalculateGCD.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\obj\Debug\CalculateGCD.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\obj\Debug\CalculateGCD.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\CalculateGCD\obj\Debug\CalculateGCD.pdb

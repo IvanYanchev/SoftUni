@@ -1,0 +1,6 @@
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\Shapes\obj\Debug\Shapes.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\01 Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\01 Shapes\obj\Debug\Shapes.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\04. OOP-Encapsulation-and-Polymorphism\Homework\01 Shapes\obj\Debug\Shapes.pdb

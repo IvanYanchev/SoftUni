@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\bin\Debug\NumberCalculations.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\obj\Debug\NumberCalculations.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\NumberCalculations\obj\Debug\NumberCalculations.pdb

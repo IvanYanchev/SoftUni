@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Persons", "Persons\01 Persons.csproj", "{57937078-D5A6-4034-9F3A-E4EC585FB8A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Persons", "01 Persons\01 Persons.csproj", "{57937078-D5A6-4034-9F3A-E4EC585FB8A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 LaptopShop", "LaptopShop\02 LaptopShop.csproj", "{C9C31C98-DB29-43FB-8AA0-AEBACC75477A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 LaptopShop", "02 LaptopShop\02 LaptopShop.csproj", "{C9C31C98-DB29-43FB-8AA0-AEBACC75477A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 PcCatalog", "PcCatalog\03 PcCatalog.csproj", "{29A48EED-30BD-49E1-99D3-F0D5D973ECC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 PcCatalog", "03 PcCatalog\03 PcCatalog.csproj", "{29A48EED-30BD-49E1-99D3-F0D5D973ECC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

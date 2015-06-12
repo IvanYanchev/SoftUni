@@ -1,3 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb

@@ -1,0 +1,3 @@
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\08 CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\08 CatalanNumbers\obj\Debug\CatalanNumbers.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\08 CatalanNumbers\obj\Debug\CatalanNumbers.pdb

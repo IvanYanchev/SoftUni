@@ -1,5 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.pdb

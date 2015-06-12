@@ -3,37 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeIfGreater", "ExchangeIfGreater\ExchangeIfGreater.csproj", "{70C277FB-35A8-4310-A7CB-0B663FCCA441}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 ExchangeIfGreater", "01 ExchangeIfGreater\01 ExchangeIfGreater.csproj", "{70C277FB-35A8-4310-A7CB-0B663FCCA441}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{C158DBC2-DB50-4138-8657-9CCB54FAD069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 BonusScore", "02 BonusScore\02 BonusScore.csproj", "{C158DBC2-DB50-4138-8657-9CCB54FAD069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForAPlayCard", "CheckForAPlayCard\CheckForAPlayCard.csproj", "{44D335E8-8F29-4291-993F-6099276EB074}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 CheckForAPlayCard", "03 CheckForAPlayCard\03 CheckForAPlayCard.csproj", "{44D335E8-8F29-4291-993F-6099276EB074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationSign", "MultiplicationSign\MultiplicationSign.csproj", "{ABADEA48-5CEF-4B8E-88F1-DF10ACF26D16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 MultiplicationSign", "04 MultiplicationSign\04 MultiplicationSign.csproj", "{ABADEA48-5CEF-4B8E-88F1-DF10ACF26D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBiggestOf3Numbers", "TheBiggestOf3Numbers\TheBiggestOf3Numbers.csproj", "{50A6E0F4-E531-418E-A93A-73338CC30C73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 TheBiggestOf3Numbers", "05 TheBiggestOf3Numbers\05 TheBiggestOf3Numbers.csproj", "{50A6E0F4-E531-418E-A93A-73338CC30C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort3NumbersWithNestedIfs", "Sort3NumbersWithNestedIfs\Sort3NumbersWithNestedIfs.csproj", "{F4D44FEA-8C1E-40EC-847F-12BC0812BE4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Sort3NumbersWithNestedIfs", "07 Sort3NumbersWithNestedIfs\07 Sort3NumbersWithNestedIfs.csproj", "{F4D44FEA-8C1E-40EC-847F-12BC0812BE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitAsWord", "DigitAsWord\DigitAsWord.csproj", "{334D9729-E9E0-473B-AE43-8118814BA8F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 DigitAsWord", "08 DigitAsWord\08 DigitAsWord.csproj", "{334D9729-E9E0-473B-AE43-8118814BA8F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayWithIntDoubleAndString", "PlayWithIntDoubleAndString\PlayWithIntDoubleAndString.csproj", "{6D356AD1-4FC5-4D41-9CDC-D6EC423388F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 PlayWithIntDoubleAndString", "09 PlayWithIntDoubleAndString\09 PlayWithIntDoubleAndString.csproj", "{6D356AD1-4FC5-4D41-9CDC-D6EC423388F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerTime", "BeerTime\BeerTime.csproj", "{93D192DE-09CD-4EFA-BDDE-8763140A2E37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 BeerTime", "10 BeerTime\10 BeerTime.csproj", "{93D192DE-09CD-4EFA-BDDE-8763140A2E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAsWords", "NumberAsWords\NumberAsWords.csproj", "{40F4521A-0F5C-4BB8-804E-E0255581DBF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 NumberAsWords", "11 NumberAsWords\11 NumberAsWords.csproj", "{40F4521A-0F5C-4BB8-804E-E0255581DBF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroSubset", "ZeroSubset\ZeroSubset.csproj", "{A76E2197-1DD6-4A71-A124-771E246B92D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 ZeroSubset", "12 ZeroSubset\12 ZeroSubset.csproj", "{A76E2197-1DD6-4A71-A124-771E246B92D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{5A3ECAFC-8785-4EB0-B93D-E29A5B253483}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Triangle", "13 Triangle\13 Triangle.csproj", "{5A3ECAFC-8785-4EB0-B93D-E29A5B253483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pairs", "Pairs\Pairs.csproj", "{AAE241B3-2AA8-4123-88C9-1EDD4C17CBE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Pairs", "14 Pairs\14 Pairs.csproj", "{AAE241B3-2AA8-4123-88C9-1EDD4C17CBE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "House", "House\House.csproj", "{D5912E0A-C4BA-4569-B0B8-13435A990983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 House", "15 House\15 House.csproj", "{D5912E0A-C4BA-4569-B0B8-13435A990983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicDates", "MagicDates\MagicDates.csproj", "{F3862DC2-0C7B-4321-AAFF-2AAB673BB348}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 MagicDates", "16 MagicDates\16 MagicDates.csproj", "{F3862DC2-0C7B-4321-AAFF-2AAB673BB348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitKiller", "BitKiller\BitKiller.csproj", "{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 BitKiller", "17 BitKiller\17 BitKiller.csproj", "{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

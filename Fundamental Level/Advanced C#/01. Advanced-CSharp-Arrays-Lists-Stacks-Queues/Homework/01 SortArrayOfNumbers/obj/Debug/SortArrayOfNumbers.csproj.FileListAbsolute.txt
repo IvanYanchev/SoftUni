@@ -1,0 +1,12 @@
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\obj\Debug\SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe.config
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.pdb
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.exe
+c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.pdb
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe.config
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.exe
+C:\Users\Ivan\OneDrive\Advanced-CSharp\Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework\01 SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework\01 SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\01. Advanced-CSharp-Arrays-Lists-Stacks-Queues\Homework\01 SortArrayOfNumbers\obj\Debug\01SortArrayOfNumbers.pdb
