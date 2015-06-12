@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\bin\Debug\Magic Car Numbers.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\bin\Debug\Magic Car Numbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\bin\Debug\Magic Car Numbers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\obj\Debug\Magic Car Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\obj\Debug\Magic Car Numbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Magic Car Numbers\obj\Debug\Magic Car Numbers.pdb

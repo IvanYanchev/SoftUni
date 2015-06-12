@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\bin\Debug\CountingAWordInAText.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\bin\Debug\CountingAWordInAText.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\bin\Debug\CountingAWordInAText.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\obj\Debug\CountingAWordInAText.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\obj\Debug\CountingAWordInAText.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountingAWordInAText\obj\Debug\CountingAWordInAText.csprojResolveAssemblyReference.cache

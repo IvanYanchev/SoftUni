@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\BubbleSort\obj\Debug\BubbleSort.pdb

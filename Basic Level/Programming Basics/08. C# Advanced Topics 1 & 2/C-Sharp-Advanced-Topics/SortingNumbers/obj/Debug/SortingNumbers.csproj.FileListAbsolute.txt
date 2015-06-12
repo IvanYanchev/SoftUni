@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\SortingNumbers\bin\Debug\SortingNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\SortingNumbers\bin\Debug\SortingNumbers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\SortingNumbers\obj\Debug\SortingNumbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\SortingNumbers\obj\Debug\SortingNumbers.pdb

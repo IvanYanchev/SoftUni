@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\bin\Debug\ExtractURLsFromText.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\ExtractURLsFromText\obj\Debug\ExtractURLsFromText.pdb

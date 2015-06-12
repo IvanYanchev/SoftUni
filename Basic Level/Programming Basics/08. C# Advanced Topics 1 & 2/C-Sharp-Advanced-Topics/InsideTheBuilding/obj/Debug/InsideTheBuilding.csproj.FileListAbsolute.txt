@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

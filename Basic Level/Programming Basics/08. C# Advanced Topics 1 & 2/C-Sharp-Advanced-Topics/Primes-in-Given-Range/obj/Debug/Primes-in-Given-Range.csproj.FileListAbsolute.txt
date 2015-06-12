@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\bin\Debug\Primes-in-Given-Range.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\bin\Debug\Primes-in-Given-Range.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\bin\Debug\Primes-in-Given-Range.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\obj\Debug\Primes-in-Given-Range.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\obj\Debug\Primes-in-Given-Range.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Primes-in-Given-Range\obj\Debug\Primes-in-Given-Range.pdb

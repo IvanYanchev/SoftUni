@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\bin\Debug\PerimeterAndAreaOfPolygon.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\bin\Debug\PerimeterAndAreaOfPolygon.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\bin\Debug\PerimeterAndAreaOfPolygon.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\obj\Debug\PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\obj\Debug\PerimeterAndAreaOfPolygon.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\PerimeterAndAreaOfPolygon\obj\Debug\PerimeterAndAreaOfPolygon.pdb

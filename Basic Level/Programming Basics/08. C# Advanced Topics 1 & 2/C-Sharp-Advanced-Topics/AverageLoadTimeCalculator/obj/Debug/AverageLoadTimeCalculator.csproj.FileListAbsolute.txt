@@ -1,0 +1,2 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\AverageLoadTimeCalculator\bin\Debug\AverageLoadTimeCalculator.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\AverageLoadTimeCalculator\obj\Debug\AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
