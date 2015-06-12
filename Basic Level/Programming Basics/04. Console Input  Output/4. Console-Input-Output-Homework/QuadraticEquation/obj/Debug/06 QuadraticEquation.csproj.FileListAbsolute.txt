@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

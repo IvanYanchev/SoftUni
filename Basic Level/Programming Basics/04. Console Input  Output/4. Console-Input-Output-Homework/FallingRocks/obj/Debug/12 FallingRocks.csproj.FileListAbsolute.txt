@@ -1,0 +1,3 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FallingRocks\obj\Debug\FallingRocks.pdb

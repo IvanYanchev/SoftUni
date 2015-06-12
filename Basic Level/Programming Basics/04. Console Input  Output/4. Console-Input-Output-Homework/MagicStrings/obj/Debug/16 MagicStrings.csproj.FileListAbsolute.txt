@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\MagicStrings\bin\Debug\MagicStrings.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\MagicStrings\obj\Debug\MagicStrings.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\MagicStrings\obj\Debug\MagicStrings.pdb
