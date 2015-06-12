@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\bin\Debug\Joro.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\obj\Debug\Joro.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\obj\Debug\Joro.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\bin\Debug\Joro.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\bin\Debug\Joro.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\Joro\obj\Debug\15 JoroTheFootballPlayer.csprojResolveAssemblyReference.cache

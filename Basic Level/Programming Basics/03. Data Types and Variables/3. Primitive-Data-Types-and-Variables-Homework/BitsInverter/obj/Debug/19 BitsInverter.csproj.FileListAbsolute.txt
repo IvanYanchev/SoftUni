@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\bin\Debug\BitsInverter.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\bin\Debug\BitsInverter.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\obj\Debug\19 BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\BitsInverter\obj\Debug\BitsInverter.pdb
