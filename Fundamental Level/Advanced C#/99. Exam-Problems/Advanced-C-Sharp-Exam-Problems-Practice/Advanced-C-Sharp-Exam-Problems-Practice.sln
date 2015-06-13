@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 ChatLogger", "19 ChatLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 OhMyGirl", "20 OhMyGirl\20 OhMyGirl.csproj", "{228742F0-707F-47FF-B65F-ED562377CCD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 ItVillage", "21 ItVillage\21 ItVillage.csproj", "{AD004196-972F-45E2-B588-F9BD42DAC92B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{228742F0-707F-47FF-B65F-ED562377CCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228742F0-707F-47FF-B65F-ED562377CCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228742F0-707F-47FF-B65F-ED562377CCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD004196-972F-45E2-B588-F9BD42DAC92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD004196-972F-45E2-B588-F9BD42DAC92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD004196-972F-45E2-B588-F9BD42DAC92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD004196-972F-45E2-B588-F9BD42DAC92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
