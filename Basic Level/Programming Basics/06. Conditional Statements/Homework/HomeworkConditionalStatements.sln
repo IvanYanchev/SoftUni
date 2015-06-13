@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 MagicDates", "16 MagicDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 BitKiller", "17 BitKiller\17 BitKiller.csproj", "{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 TheBiggestOfFiveNumbers", "06 TheBiggestOfFiveNumbers\06 TheBiggestOfFiveNumbers.csproj", "{A182D211-A174-4F63-838E-55A09C96E9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A39D98B1-03E2-4773-BE1B-9F0607D31BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A182D211-A174-4F63-838E-55A09C96E9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A182D211-A174-4F63-838E-55A09C96E9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A182D211-A174-4F63-838E-55A09C96E9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A182D211-A174-4F63-838E-55A09C96E9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

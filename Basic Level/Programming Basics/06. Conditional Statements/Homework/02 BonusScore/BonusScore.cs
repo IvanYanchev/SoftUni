@@ -1,31 +1,29 @@
 ﻿using System;
 
-    class BonusScore
+class BonusScore
+{
+    static void Main()
     {
-        static void Main()
+        Console.Write("Please input score in the range [1..9] : ");
+        int score = int.Parse(Console.ReadLine());
+
+        if (score >= 1 && score <= 3)
         {
-            int a = int.Parse(Console.ReadLine());
-
-            if ( a >= 1 && a <= 3)
-            {
-                a *= 10;
-                Console.WriteLine(a);
-            }
-            else if ( a >= 4 && a <= 6)
-            {
-                a *= 100;
-                Console.WriteLine(a);
-            }
-            else if (a >= 7 && a <= 9)
-            {
-                a *= 1000;
-                Console.WriteLine(a);
-            }
-            else
-            {
-                Console.WriteLine("invalid score");
-            }
-
-            
+            score *= 10;
         }
+        else if (score >= 4 && score <= 6)
+        {
+            score *= 100;
+        }
+        else if (score >= 7 && score <= 9)
+        {
+            score *= 1000;
+        }
+        else
+        {
+            Console.WriteLine("invalid score");
+            return;
+        }
+        Console.WriteLine("bonus score: {0}", score);
     }
+}
