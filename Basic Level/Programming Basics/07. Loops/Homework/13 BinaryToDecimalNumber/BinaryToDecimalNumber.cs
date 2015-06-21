@@ -1,19 +1,19 @@
 ﻿using System;
 
-    class BinaryToDecimalNumber
+class BinaryToDecimalNumber
+{
+    static void Main()
     {
-        static void Main()
+        string inputString = Console.ReadLine();
+
+        int result = 0;
+
+        for (int i = 0; i < inputString.Length; i++)
         {
-            string inputString = Console.ReadLine();
-
-            int result = 0;
-
-            for (int i = 0; i < inputString.Length; i++)
-            {
-                int bit = int.Parse(inputString.Substring(i,1));
-                result += (int)Math.Pow(2, inputString.Length - i - 1) * bit;
-            }
-
-            Console.WriteLine(result);
+            int bit = int.Parse(inputString.Substring(i, 1));
+            result += (int)Math.Pow(2, inputString.Length - i - 1) * bit;
         }
+
+        Console.WriteLine(result);
     }
+}

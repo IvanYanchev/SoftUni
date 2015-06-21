@@ -1,3 +1,5 @@
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 CalculateFactSum\bin\Debug\Calculate.exe.config
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 CalculateFactSum\obj\Debug\Calculate.exe
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 CalculateFactSum\obj\Debug\Calculate.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 CalculateFactSum\bin\Debug\Calculate.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 CalculateFactSum\bin\Debug\Calculate.pdb

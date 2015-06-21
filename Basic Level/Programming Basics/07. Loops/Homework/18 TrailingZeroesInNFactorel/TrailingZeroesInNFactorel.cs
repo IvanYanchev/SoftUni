@@ -23,25 +23,24 @@ namespace TrailingZeroesInNFactorel
             string str = factorel.ToString();
 
             // VARIANT 1
-            //char[] nums = str.ToCharArray(); 
-            //int count = 0;
-            //for (int j = nums.Length - 1; j >= 0; j--)
-            //{
-            //    if (nums[j] != '0')
-            //    {
-            //        break;
-            //    }
-            //    else
-            //    {
-            //        count = count + 1;
-            //    }
-            //}
-            //Console.WriteLine(count);
+            int zeroCount = 0;
+            for (int j = str.Length - 1; j >= 0; j--)
+            {
+                if (str[j] != '0')
+                {
+                    break;
+                }
+                else
+                {
+                    zeroCount++;
+                }
+            }
+            Console.WriteLine(zeroCount);
 
             // VARIANT 2
-            string strWithoutTrailingZeros = str.TrimEnd('0');
-            int trailingZerosLenght = str.Length - strWithoutTrailingZeros.Length;
-            Console.WriteLine(trailingZerosLenght);
+            //string strWithoutTrailingZeros = str.TrimEnd('0');
+            //int trailingZerosLenght = str.Length - strWithoutTrailingZeros.Length;
+            //Console.WriteLine(trailingZerosLenght);
         }
     }
 }

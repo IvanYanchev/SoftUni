@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7038BD94-B42B-48D0-86CF-2EEFF9A6A7CE}</ProjectGuid>
+    <ProjectGuid>{DB598E8D-B46A-47DF-8A1D-B1C1645978DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01_NumbersFrom1ToN</RootNamespace>
-    <AssemblyName>01 NumbersFrom1ToN</AssemblyName>
+    <RootNamespace>NumbersFrom1toN</RootNamespace>
+    <AssemblyName>NumbersFrom1toN</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumbersFrom1ToN.cs" />
+    <Compile Include="NumbersNotDivisibleBy3And7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

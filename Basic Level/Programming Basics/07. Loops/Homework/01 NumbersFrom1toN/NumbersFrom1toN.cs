@@ -4,20 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NumbersFrom1toN
+namespace _01_NumbersFrom1ToN
 {
-    class NumbersFrom1toN
+    class NumbersFrom1ToN
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                if (i % 3 == 0 || i % 7 == 0)
-                    continue;
-                else
-                    Console.Write("{0} ", i);
+                Console.Write("{0} ", i + 1);
             }
         }
     }

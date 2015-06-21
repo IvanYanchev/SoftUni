@@ -1,59 +1,59 @@
 ﻿using System;
 
-    class SpiralMatrix
+class SpiralMatrix
+{
+    static void Main()
     {
-        static void Main()
+        int n = int.Parse(Console.ReadLine());
+        int[,] matrix = new int[n, n];
+        int num = 1;
+        int i = 0;
+
+        while (num <= n * n)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[,] matrix = new int[n, n];
-            int num = 1;
-            int i = 0;
+            int indexRow = i;
+            int indexCol = i;
 
-            while (num <= n * n)
+            while (indexCol < n - i)
             {
-                int indexRow = i;
-                int indexCol = i;
-                
-                 while (indexCol < n - i)
-                 {
-                    matrix[indexRow, indexCol] = num;
-                    indexCol++;
-                    num++;
-                 }
-                 indexCol--;
-                 indexRow++;
-                 while (indexRow < n - i)
-                 {
-                     matrix[indexRow, indexCol] = num;
-                     indexRow++;
-                     num++;
-                 }
-                 indexRow--;
-                 indexCol--;
-                 while (indexCol >= i)
-                 {
-                     matrix[indexRow, indexCol] = num;
-                     indexCol--;
-                     num++;
-                 }
-                 indexCol++;
-                 indexRow--;
-                 while (indexRow >= i + 1)
-                 {
-                     matrix[indexRow, indexCol] = num;
-                     indexRow--;
-                     num++;
-                 }
-                 i++;
+                matrix[indexRow, indexCol] = num;
+                indexCol++;
+                num++;
             }
+            indexCol--;
+            indexRow++;
+            while (indexRow < n - i)
+            {
+                matrix[indexRow, indexCol] = num;
+                indexRow++;
+                num++;
+            }
+            indexRow--;
+            indexCol--;
+            while (indexCol >= i)
+            {
+                matrix[indexRow, indexCol] = num;
+                indexCol--;
+                num++;
+            }
+            indexCol++;
+            indexRow--;
+            while (indexRow >= i + 1)
+            {
+                matrix[indexRow, indexCol] = num;
+                indexRow--;
+                num++;
+            }
+            i++;
+        }
 
-            for (int k = 0; k < n; k++)
+        for (int k = 0; k < n; k++)
+        {
+            for (int j = 0; j < n; j++)
             {
-                for (int j = 0; j < n; j++)
-                {
-                    Console.Write("{0, 4}",matrix[k,j]);
-                }
-                Console.WriteLine();
+                Console.Write("{0, 4}", matrix[k, j]);
             }
+            Console.WriteLine();
         }
     }
+}

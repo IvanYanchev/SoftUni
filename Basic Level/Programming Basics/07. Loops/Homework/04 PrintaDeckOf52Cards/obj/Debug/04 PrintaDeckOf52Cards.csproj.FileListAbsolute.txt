@@ -1,3 +1,5 @@
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\04 PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.exe.config
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\04 PrintaDeckOf52Cards\obj\Debug\PrintaDeckOf52Cards.exe
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\04 PrintaDeckOf52Cards\obj\Debug\PrintaDeckOf52Cards.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\04 PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\04 PrintaDeckOf52Cards\bin\Debug\PrintaDeckOf52Cards.pdb
