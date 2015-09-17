@@ -8,13 +8,13 @@ namespace LongestIncreasingSequence
 {
     class LongestIncreasingSequence
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string input = "5 -1 10 20 3 4";
+            string input = "10 9 8 7 6 5 4 3 2 1";
             int[] numbers = input.Split(' ').Select(int.Parse).ToArray();
             int lenghtCurrentSeq = 1;
-            int lenghtLongestSeq = int.MinValue;
-            int seqStartingIndex = 0;
+            int lenghtLongestSeq = 1;
+            int longestSeqStartingIndex = 0;
 
             for (int i = 0; i < numbers.Length - 1; i++)
             {
@@ -26,7 +26,7 @@ namespace LongestIncreasingSequence
                     if (lenghtCurrentSeq > lenghtLongestSeq)
                     {
                         lenghtLongestSeq = lenghtCurrentSeq;
-                        seqStartingIndex = i - lenghtCurrentSeq + 2;
+                        longestSeqStartingIndex = i - lenghtCurrentSeq + 2;
                     }
                 }
                 else
@@ -37,19 +37,13 @@ namespace LongestIncreasingSequence
             }
 
             Console.WriteLine(numbers[numbers.Length - 1]);
+
             Console.Write("Longest: ");
-            if (lenghtLongestSeq == int.MinValue)
+            for (int i = longestSeqStartingIndex; i < longestSeqStartingIndex + lenghtLongestSeq; i++)
             {
-                Console.WriteLine(numbers[0]);
+                Console.Write("{0} ", numbers[i]);
             }
-            else
-            {
-                for (int i = seqStartingIndex; i < seqStartingIndex + lenghtLongestSeq; i++)
-                {
-                    Console.Write("{0} ", numbers[i]);
-                }
-                Console.WriteLine();
-            }
+            Console.WriteLine();
         }
     }
 }

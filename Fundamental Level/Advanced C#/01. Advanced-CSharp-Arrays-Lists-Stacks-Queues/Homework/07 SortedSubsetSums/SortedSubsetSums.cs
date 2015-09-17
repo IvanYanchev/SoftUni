@@ -8,24 +8,7 @@ namespace SubsetSums
 {
     class SubsetSums
     {
-        static void SubsetSumAndAdd(List<int> set, List<List<int>> list, int mask, int n)
-        {
-            List<int> subset = new List<int>();
-            for (int bitPosition = 0; bitPosition < 32; bitPosition++)
-            {
-                if ((mask & 1 << bitPosition) >> bitPosition == 1 && bitPosition < set.Count)
-                {
-                    subset.Add(set[bitPosition]);
-                }
-            }
-            if (subset.Sum() == n)
-            {
-                subset.Sort();
-                list.Add(subset);
-            }
-        }
-
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             string input = "0 11 1 10 5 6 3 4 7 2";
@@ -47,10 +30,27 @@ namespace SubsetSums
                 SubsetSumAndAdd(numbers, listOfSubsets, mask, n);
             }
 
-            var result = listOfSubsets.OrderBy(x => x.Count);
-            foreach (var item in result)
+            var resultSubsets = listOfSubsets.OrderBy(x => x.Count);
+            foreach (var subset in resultSubsets)
             {
-                Console.WriteLine("{0} = {1}", string.Join(" + ", item), item.Sum());
+                Console.WriteLine("{0} = {1}", string.Join(" + ", subset), subset.Sum());
+            }
+        }
+
+        static void SubsetSumAndAdd(List<int> set, List<List<int>> listOfSubsets, int mask, int n)
+        {
+            List<int> subset = new List<int>();
+            for (int bitPosition = 0; bitPosition < 32; bitPosition++)
+            {
+                if ((mask & 1 << bitPosition) >> bitPosition == 1 && bitPosition < set.Count)
+                {
+                    subset.Add(set[bitPosition]);
+                }
+            }
+            if (subset.Sum() == n)
+            {
+                subset.Sort();
+                listOfSubsets.Add(subset);
             }
         }
     }

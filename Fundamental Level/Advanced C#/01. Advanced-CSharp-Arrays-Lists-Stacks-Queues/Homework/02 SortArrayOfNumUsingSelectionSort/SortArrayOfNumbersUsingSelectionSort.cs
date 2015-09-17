@@ -8,7 +8,7 @@ namespace SortArrayOfNumUsingSelectionSort
 {
     class SortArrayOfNumbersUsingSelectionSort
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string inputLine = Console.ReadLine();
 

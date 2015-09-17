@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 SortArrayOfNumbers", "01 SortArrayOfNumbers\01 SortArrayOfNumbers.csproj", "{3C81B841-8A2E-459E-8749-C050C5420657}"
 EndProject

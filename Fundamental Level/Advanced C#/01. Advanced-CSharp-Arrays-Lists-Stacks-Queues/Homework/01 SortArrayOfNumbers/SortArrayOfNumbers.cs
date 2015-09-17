@@ -1,23 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SortArrayOfNumbers
 {
     class SortArrayOfNumbers
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string inputLine = Console.ReadLine();
-            string[] numAsString = inputLine.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            int[] numbers = new int[numAsString.Length];
-            for (int i = 0; i < numAsString.Length; i++)
+            string input = Console.ReadLine();
+            string[] numbersAsStrings = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            int[] numbers = new int[numbersAsStrings.Length];
+
+            for (int i = 0; i < numbers.Length; i++)
             {
-                numbers[i] = int.Parse(numAsString[i]);
+                numbers[i] = int.Parse(numbersAsStrings[i]);
             }
+
             Array.Sort(numbers);
+
             Console.WriteLine(string.Join(" ", numbers));
         }
     }

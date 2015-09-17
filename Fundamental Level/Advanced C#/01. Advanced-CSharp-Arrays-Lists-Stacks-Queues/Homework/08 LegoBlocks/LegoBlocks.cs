@@ -8,20 +8,6 @@ namespace LegoBlocks
 {
     class LegoBlocks
     {
-        static void ReadJArrayFromTheConsole(List<int>[] arr, int n)
-        {
-            for (int i = 0; i < n; i++)
-            {
-                List<int> newList = new List<int>();
-                string input = Console.ReadLine().Trim();
-                if (input != "")
-                {
-                    newList = input.Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
-                }
-                arr[i] = newList;
-            }
-        }
-
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
@@ -65,6 +51,20 @@ namespace LegoBlocks
 			        totalNumberOfCells += jaggedArray1[i].Count;
 			    }
                 Console.WriteLine("The total number of cells is: {0}", totalNumberOfCells);
+            }
+        }
+
+        static void ReadJArrayFromTheConsole(List<int>[] arr, int n)
+        {
+            for (int i = 0; i < n; i++)
+            {
+                List<int> newList = new List<int>();
+                string input = Console.ReadLine().Trim();
+                if (input != "")
+                {
+                    newList = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+                }
+                arr[i] = newList;
             }
         }
     }

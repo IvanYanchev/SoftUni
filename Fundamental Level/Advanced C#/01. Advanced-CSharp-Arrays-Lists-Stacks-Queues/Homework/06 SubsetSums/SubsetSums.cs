@@ -8,23 +8,7 @@ namespace SubsetSums
 {
     class SubsetSums
     {
-        static void SubsetSumAndPrint(List<int> set, int mask, int n)
-        {
-            List<int> subset = new List<int>();
-            for (int bitPosition = 0; bitPosition < 32; bitPosition++)
-            {
-                if ((mask & 1 << bitPosition) >> bitPosition == 1 && bitPosition < set.Count)
-                {
-                    subset.Add(set[bitPosition]);
-                }
-            }
-            if (subset.Sum() == n)
-            {
-                Console.WriteLine("{0} = {1}", string.Join(" + ", subset), subset.Sum());
-            }
-        }
-
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             string input = "0 11 1 10 5 6 3 4 7 2";
@@ -43,6 +27,22 @@ namespace SubsetSums
             for (int mask = 0; mask < Math.Pow(2, numbers.Count); mask++)
             {
                 SubsetSumAndPrint(numbers, mask, n);
+            }
+        }
+
+        static void SubsetSumAndPrint(List<int> set, int mask, int n)
+        {
+            List<int> subset = new List<int>();
+            for (int bitPosition = 0; bitPosition < 32; bitPosition++)
+            {
+                if ((mask & 1 << bitPosition) >> bitPosition == 1 && bitPosition < set.Count)
+                {
+                    subset.Add(set[bitPosition]);
+                }
+            }
+            if (subset.Sum() == n)
+            {
+                Console.WriteLine("{0} = {1}", string.Join(" + ", subset), subset.Sum());
             }
         }
     }

@@ -10,7 +10,7 @@ namespace SequencesOfEqualStrings
     {
         static void Main(string[] args)
         {
-            string inputStrings = "a b b b xxxx c c c dd dd";
+            string inputStrings = "1 1 2 2 3 3 4 4 5 5";
             string[] elements = inputStrings.Split(' ');
 
             for (int i = 0; i < elements.Length - 1; i++)

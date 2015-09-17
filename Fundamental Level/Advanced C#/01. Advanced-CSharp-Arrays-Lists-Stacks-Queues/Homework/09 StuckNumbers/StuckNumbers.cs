@@ -8,11 +8,11 @@ namespace StuckNumbers
 {
     class StuckNumbers
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             string input = Console.ReadLine();
-            int[] numbers = input.Split(' ').Select(int.Parse).ToArray();
+            string[] numbers = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToArray();
             bool areNotFoundStuckNumbers = true;
 
             for (int a = 0; a < numbers.Length; a++)
@@ -25,9 +25,15 @@ namespace StuckNumbers
                         {
                             if (a != b && a != c && a != d && b != c && b != d && c != d)
                             {
-                                string left = "" + numbers[a] + numbers[b];
-                                string right = "" + numbers[c] + numbers[d];
-                                if (left == right)
+                                StringBuilder left = new StringBuilder();
+                                left.Append(numbers[a]);
+                                left.Append(numbers[b]);
+
+                                StringBuilder right = new StringBuilder();
+                                right.Append(numbers[c]);
+                                right.Append(numbers[d]);
+
+                                if (left.Equals(right))
                                 {
                                     Console.WriteLine("{0}|{1}=={2}|{3}", numbers[a], numbers[b], numbers[c], numbers[d]);
                                     areNotFoundStuckNumbers = false;

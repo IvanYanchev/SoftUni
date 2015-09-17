@@ -8,7 +8,7 @@ namespace PythagoreanNumbers
 {
     class PythagoreanNumbers
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             List<int> numbers = new List<int>();
