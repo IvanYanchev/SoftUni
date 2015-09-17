@@ -8,16 +8,6 @@ namespace CollectTheCoins
 {
     class CollectTheCoins
     {
-        static bool IsLegalMovement(char[,] matrix, int row, int col, int stepRight, int stepDown, int stepLeft, int stepUp)
-        {
-            bool isLegal = false;
-            if (row + stepDown < matrix.GetLength(0) && row + stepUp >= 0 && col + stepRight < matrix.GetLength(1) && col + stepLeft >= 0)
-            {
-                isLegal = true;
-            }
-            return isLegal;
-        }
-
         static void Main(string[] args)
         {
             int inputStringMaxLenght = 0;
@@ -45,7 +35,9 @@ namespace CollectTheCoins
             int wallsHit = 0;
             int row = 0;
             int col = 0;
+
             string commandsLine = Console.ReadLine();
+
             for (int i = 0; i < commandsLine.Length; i++)
             {
                 switch (commandsLine.ElementAt(i))
@@ -96,8 +88,19 @@ namespace CollectTheCoins
                     coinsCollect++;
                 }
             }
+
             Console.WriteLine("Coins collected: {0}", coinsCollect);
             Console.WriteLine("Walls hit: {0}", wallsHit);
+        }
+
+        static bool IsLegalMovement(char[,] matrix, int row, int col, int stepRight, int stepDown, int stepLeft, int stepUp)
+        {
+            bool isLegal = false;
+            if (row + stepDown < matrix.GetLength(0) && row + stepUp >= 0 && col + stepRight < matrix.GetLength(1) && col + stepLeft >= 0)
+            {
+                isLegal = true;
+            }
+            return isLegal;
         }
     }
 }

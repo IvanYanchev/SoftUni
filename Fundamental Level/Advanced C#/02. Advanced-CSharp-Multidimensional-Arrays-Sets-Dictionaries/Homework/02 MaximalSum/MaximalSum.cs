@@ -8,6 +8,47 @@ namespace MaximalSum
 {
     class MaximalSum
     {
+        static void Main()
+        {
+            int sqSize = 3;
+            string inputSizeLine = Console.ReadLine();
+            int[] matrixDim = inputSizeLine.Split(' ').Select(int.Parse).ToArray();
+
+            int[,] matrix = new int[matrixDim[0], matrixDim[1]];
+
+            //int[,] matrix = { { 1, 5, 5, 2, 4 }, { 2, 1, 4, 14, 3 }, { 3, 7, 11, 2, 8 }, { 4, 8, 12, 16, 4 } };
+
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                string inputMatrixLine = Console.ReadLine();
+                int[] matrixRow = inputMatrixLine.Split(' ').Select(int.Parse).ToArray();
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    matrix[row, col] = matrixRow[col];
+                }
+            }
+
+            int sumMax = int.MinValue;
+            int rowIndexMax = 0;
+            int colIndexMax = 0;
+            for (int row = 0; row <= matrix.GetLength(0) - sqSize; row++)
+            {
+                for (int col = 0; col <= matrix.GetLength(1) - sqSize; col++)
+                {
+                    int sum = SumSquare(matrix, row, col, sqSize);
+                    if (sum > sumMax)
+                    {
+                        sumMax = sum;
+                        rowIndexMax = row;
+                        colIndexMax = col;
+                    }
+                }
+            }
+
+            Console.WriteLine("Sum = {0}", sumMax);
+            PrintSquare(matrix, rowIndexMax, colIndexMax, sqSize);
+        }
+
         static int SumSquare(int[,] matrix, int row, int col, int size)
         {
             int sum = 0;
@@ -31,47 +72,6 @@ namespace MaximalSum
                 }
                 Console.WriteLine();
             }
-        }
-
-        static void Main(string[] args)
-        {
-            int sqSize = 3;
-            string inputLine = Console.ReadLine();
-            int[] matrixDim = inputLine.Split(' ').Select(int.Parse).ToArray();
-
-            // int[,] matrix = new int[matrixDim[0], matrixDim[1]];
-
-            int[,] matrix = { { 1, 5, 5, 2, 4 }, { 2, 1, 4, 14, 3 }, { 3, 7, 11, 2, 8 }, { 4, 8, 12, 16, 4 } };
-
-            //for (int row = 0; row < matrix.GetLength(0); row++)
-            //{
-            //    inputLine = Console.ReadLine();
-            //    int[] matrixRow = inputLine.Split(' ').Select(int.Parse).ToArray();
-            //    for (int col = 0; col < matrix.GetLength(1); col++)
-            //    {
-            //        matrix[row, col] = matrixRow[col];
-            //    }
-            //}
-
-            int sumMax = int.MinValue;
-            int rowIndexMax = 0;
-            int colIndexMax = 0;
-            for (int row = 0; row <= matrix.GetLength(0) - sqSize; row++)
-            {
-                for (int col = 0; col <= matrix.GetLength(1) - sqSize; col++)
-                {
-                    int sum = SumSquare(matrix, row, col, sqSize);
-                    if (sum > sumMax)
-                    {
-                        sumMax = sum;
-                        rowIndexMax = row;
-                        colIndexMax = col;
-                    }
-                }
-            }
-
-            Console.WriteLine("Sum = {0}", sumMax);
-            PrintSquare(matrix, rowIndexMax, colIndexMax, sqSize);
         }
     }
 }

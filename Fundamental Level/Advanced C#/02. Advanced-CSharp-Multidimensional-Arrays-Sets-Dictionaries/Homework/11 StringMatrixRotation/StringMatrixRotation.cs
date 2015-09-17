@@ -8,30 +8,6 @@ namespace StringMatrixRotation
 {
     class StringMatrixRotation
     {
-        static void PrintMatrix(char[,] matrix)
-        {
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    Console.Write(matrix[i, j]);
-                }
-                Console.WriteLine();
-            }
-        }
-
-        static void PrintMatrix(List<List<char>> matrix)
-        {
-            for (int i = 0; i < matrix.Count; i++)
-            {
-                for (int j = 0; j < matrix[i].Count; j++)
-                {
-                    Console.Write(matrix[i][j]);
-                }
-                Console.WriteLine();
-            }
-        }
-
         static void Main(string[] args)
         {
             string rotationInput = Console.ReadLine();
@@ -101,6 +77,30 @@ namespace StringMatrixRotation
                     }
                     PrintMatrix(rotated270);
                     break;
+            }
+        }
+
+        static void PrintMatrix(char[,] matrix)
+        {
+            for (int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    Console.Write(matrix[i, j]);
+                }
+                Console.WriteLine();
+            }
+        }
+
+        static void PrintMatrix(List<List<char>> matrix)
+        {
+            for (int i = 0; i < matrix.Count; i++)
+            {
+                for (int j = 0; j < matrix[i].Count; j++)
+                {
+                    Console.Write(matrix[i][j]);
+                }
+                Console.WriteLine();
             }
         }
     }

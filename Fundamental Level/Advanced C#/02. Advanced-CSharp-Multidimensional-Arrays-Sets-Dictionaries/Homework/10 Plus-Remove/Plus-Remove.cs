@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Plus_Remove
 {
-    class Program
+    class PlusRemove
     {
         static void Main(string[] args)
         {

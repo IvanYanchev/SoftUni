@@ -8,20 +8,7 @@ namespace MatrixShuffling
 {
     class MatrixShuffling
     {
-
-        static void PrintMatrix(string[,] matrix)
-        {
-            for (int row = 0; row < matrix.GetLength(0); row++)
-            {
-                for (int col = 0; col < matrix.GetLength(1); col++)
-                {
-                    Console.Write("{0}  ", matrix[row, col]);
-                }
-                Console.WriteLine();
-            }
-        }
-
-        static void Main(string[] args)
+        static void Main()
         {
             int numberOfRows = int.Parse(Console.ReadLine());
             int numberOfCols = int.Parse(Console.ReadLine());
@@ -72,6 +59,18 @@ namespace MatrixShuffling
                     Console.WriteLine("Invalid input!");
                 }
             } 
+        }
+
+        static void PrintMatrix(string[,] matrix)
+        {
+            for (int row = 0; row < matrix.GetLength(0); row++)
+            {
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    Console.Write("{0}  ", matrix[row, col]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

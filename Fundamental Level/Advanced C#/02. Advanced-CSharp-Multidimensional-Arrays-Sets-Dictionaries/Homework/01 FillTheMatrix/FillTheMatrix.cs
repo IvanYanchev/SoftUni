@@ -8,6 +8,22 @@ namespace FillTheMatrix
 {
     class FillTheMatrix
     {
+        static void Main()
+        {
+            int n = 5;
+            int[,] matrix = new int[n, n];
+
+            Console.WriteLine("Pattern A:");
+            FillingMatrixPatternA(matrix);
+            PrintMatrix(matrix);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Pattern B:");
+            FillingMatrixPatternB(matrix);
+            PrintMatrix(matrix);
+        }
+
         static void FillingMatrixPatternA(int[,] arr)
         {
             int element = 1;
@@ -50,22 +66,6 @@ namespace FillTheMatrix
                 }
                 Console.WriteLine();
             }
-        }
-
-        static void Main(string[] args)
-        {
-            int n = 8;
-            int[,] matrix = new int[n, n];
-
-            Console.WriteLine("Pattern A:");
-            FillingMatrixPatternA(matrix);
-            PrintMatrix(matrix);
-
-            Console.WriteLine();
-
-            Console.WriteLine("Pattern B:");
-            FillingMatrixPatternB(matrix);
-            PrintMatrix(matrix);
         }
     }
 }

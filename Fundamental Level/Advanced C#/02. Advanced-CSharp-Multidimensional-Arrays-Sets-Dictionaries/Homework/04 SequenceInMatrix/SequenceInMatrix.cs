@@ -8,22 +8,7 @@ namespace SequenceInMatrix
 {
     class SequenceInMatrix
     {
-        static int GetSequenceLenght(string[,] matrix, int row, int col, int changeRow, int changeCol)
-        {
-            int lenght = 1;
-            while ((col + changeCol < matrix.GetLength(1)) &&
-                    (col + changeCol >= 0) &&
-                    (row + changeRow < matrix.GetLength(0)) &&
-                    (matrix[row, col] == matrix[row + changeRow, col + changeCol]))
-            {
-                lenght++;
-                row += changeRow;
-                col += changeCol;
-            }
-            return lenght;
-        }
-
-        static void Main(string[] args)
+        static void Main()
         {
             string[,] matrix =
             {
@@ -33,6 +18,7 @@ namespace SequenceInMatrix
                 {"r", "pp", "pp", "dd" },
                 {"az", "ti", "toi", "pp" },
             };
+
             int maxLenght = 1;
             int maxIndexRow = 0;
             int maxIndexCol = 0;
@@ -88,6 +74,21 @@ namespace SequenceInMatrix
                 maxIndexRow += maxChangeIndexRow;
                 maxIndexCol += maxChangeIndexCol;
             }
+        }
+
+        static int GetSequenceLenght(string[,] matrix, int row, int col, int changeRow, int changeCol)
+        {
+            int lenght = 1;
+            while ((col + changeCol < matrix.GetLength(1)) &&
+                    (col + changeCol >= 0) &&
+                    (row + changeRow < matrix.GetLength(0)) &&
+                    (matrix[row, col] == matrix[row + changeRow, col + changeCol]))
+            {
+                lenght++;
+                row += changeRow;
+                col += changeCol;
+            }
+            return lenght;
         }
     }
 }

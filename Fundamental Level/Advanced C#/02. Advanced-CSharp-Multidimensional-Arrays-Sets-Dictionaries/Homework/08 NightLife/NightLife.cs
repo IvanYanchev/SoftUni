@@ -11,6 +11,7 @@ namespace NightLife
         static void Main(string[] args)
         {
             Dictionary<string, Dictionary<string, List<string>>> nightLifeProgram = new Dictionary<string, Dictionary<string, List<string>>>();
+
             while (true)
             {
                 string inputString = Console.ReadLine();
@@ -35,6 +36,7 @@ namespace NightLife
                     nightLifeProgram[city][venue].Add(performer);
                 }
             }
+
             foreach (var city in nightLifeProgram)
             {
                 Console.WriteLine(city.Key);

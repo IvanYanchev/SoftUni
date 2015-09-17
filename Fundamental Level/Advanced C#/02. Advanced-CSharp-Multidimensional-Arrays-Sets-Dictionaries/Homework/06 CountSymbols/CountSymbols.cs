@@ -11,6 +11,7 @@ namespace CountSymbols
         static void Main(string[] args)
         {
             string inputString = Console.ReadLine();
+
             for (int ch = 32; ch < 127; ch++)
             {
                 int chCount = 0;

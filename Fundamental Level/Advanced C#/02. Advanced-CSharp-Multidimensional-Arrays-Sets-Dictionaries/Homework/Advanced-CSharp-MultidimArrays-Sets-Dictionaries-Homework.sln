@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 FillTheMatrix", "01 FillTheMatrix\01 FillTheMatrix.csproj", "{982A305E-AE96-404F-95DB-8BB374A8CD04}"
 EndProject
@@ -26,8 +26,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 StringMatrixRotation", "11 StringMatrixRotation\11 StringMatrixRotation.csproj", "{C32AF1DD-7782-4ABA-ADA4-5DDCB33DE522}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 ToTheStars!", "12 ToTheStars!\12 ToTheStars!.csproj", "{FFE62A34-9478-485F-A1AD-EDE7341A5606}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 ActivityTracker", "13 ActivityTracker\13 ActivityTracker.csproj", "{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,10 +81,6 @@ Global
 		{FFE62A34-9478-485F-A1AD-EDE7341A5606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE62A34-9478-485F-A1AD-EDE7341A5606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE62A34-9478-485F-A1AD-EDE7341A5606}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CBDBAB5-1289-4735-B444-A34A1ACF5A49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
