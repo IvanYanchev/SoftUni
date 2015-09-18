@@ -8,6 +8,12 @@ namespace LastDigitOfNumber
 {
     class LastDigitOfNumber
     {
+        static void Main()
+        {
+            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine(GetLastDigitAsWord(number));
+        }
+
         static string GetLastDigitAsWord(int n)
         {
             int lastDigit = n % 10;
@@ -26,12 +32,6 @@ namespace LastDigitOfNumber
                 case 9: result = "nine"; break;
             }
             return result;
-        }
-
-        static void Main(string[] args)
-        {
-            int number = int.Parse(Console.ReadLine());
-            Console.WriteLine(GetLastDigitAsWord(number));
         }
     }
 }

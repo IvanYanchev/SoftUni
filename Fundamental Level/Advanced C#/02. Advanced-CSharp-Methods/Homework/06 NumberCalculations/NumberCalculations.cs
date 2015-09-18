@@ -8,6 +8,16 @@ namespace NumberCalculations
 {
     class NumberCalculations
     {
+        static void Main()
+        {
+            decimal[] numbers = { 8, 9, 3, 4, 5, 1, 5, 18, 2, -5 };
+            Console.WriteLine("Min     = {0}", GetMin(numbers));
+            Console.WriteLine("Max     = {0}", GetMax(numbers));
+            Console.WriteLine("Average = {0}", GetAverage(numbers));
+            Console.WriteLine("Sum     = {0}", GetSum(numbers));
+            Console.WriteLine("Product = {0}", GetProduct(numbers));
+        }
+
         static int GetMin(int[] arr)
         {
             int min = int.MaxValue;
@@ -20,6 +30,7 @@ namespace NumberCalculations
             }
             return min;
         }
+
         static double GetMin(double[] arr)
         {
             double min = double.MaxValue;
@@ -32,6 +43,7 @@ namespace NumberCalculations
             }
             return min;
         }
+
         static decimal GetMin(decimal[] arr)
         {
             decimal min = decimal.MaxValue;
@@ -44,6 +56,7 @@ namespace NumberCalculations
             }
             return min;
         }
+
         static int GetMax(int[] arr)
         {
             int max = int.MinValue;
@@ -56,6 +69,7 @@ namespace NumberCalculations
             }
             return max;
         }
+
         static double GetMax(double[] arr)
         {
             double max = int.MinValue;
@@ -68,6 +82,7 @@ namespace NumberCalculations
             }
             return max;
         }
+
         static decimal GetMax(decimal[] arr)
         {
             decimal max = int.MinValue;
@@ -80,6 +95,7 @@ namespace NumberCalculations
             }
             return max;
         }
+
         static double GetAverage(int[] arr)
         {
             double sum = 0d;
@@ -90,6 +106,7 @@ namespace NumberCalculations
             double average = sum / (arr.Length - 1);
             return average;
         }
+
         static double GetAverage(double[] arr)
         {
             double sum = 0d;
@@ -100,6 +117,7 @@ namespace NumberCalculations
             double average = sum / (arr.Length - 1);
             return average;
         }
+
         static decimal GetAverage(decimal[] arr)
         {
             decimal sum = 0M;
@@ -110,6 +128,7 @@ namespace NumberCalculations
             decimal average = sum / (arr.Length - 1);
             return average;
         }
+
         static int GetSum(int[] arr)
         {
             int sum = 0;
@@ -119,6 +138,7 @@ namespace NumberCalculations
             }
             return sum;
         }
+
         static double GetSum(double[] arr)
         {
             double sum = 0d;
@@ -128,6 +148,7 @@ namespace NumberCalculations
             }
             return sum;
         }
+
         static decimal GetSum(decimal[] arr)
         {
             decimal sum = 0m;
@@ -137,6 +158,7 @@ namespace NumberCalculations
             }
             return sum;
         }
+
         static int GetProduct(int[] arr)
         {
             int product = 1;
@@ -146,6 +168,7 @@ namespace NumberCalculations
             }
             return product;
         }
+
         static double GetProduct(double[] arr)
         {
             double product = 1d;
@@ -155,6 +178,7 @@ namespace NumberCalculations
             }
             return product;
         }
+
         static decimal GetProduct(decimal[] arr)
         {
             decimal product = 1m;
@@ -163,15 +187,6 @@ namespace NumberCalculations
                 product *= arr[i];
             }
             return product;
-        }
-        static void Main(string[] args)
-        {
-            decimal[] numbers = { 8, 9, 3, 4, 5, 1, 5, 18, 2, -5 };
-            Console.WriteLine("Min     = {0}", GetMin(numbers));
-            Console.WriteLine("Max     = {0}", GetMax(numbers));
-            Console.WriteLine("Average = {0}", GetAverage(numbers));
-            Console.WriteLine("Sum     = {0}", GetSum(numbers));
-            Console.WriteLine("Product = {0}", GetProduct(numbers));
         }
     }
 }

@@ -8,9 +8,19 @@ namespace LargerThanNeighbours
 {
     class LargerThanNeighbours
     {
+        static void Main(string[] args)
+        {
+            int[] arr = new int[] { 1, 3, 4, 5, 1, 0, 5 };
+            for (int i = 0; i < arr.Length ; i++)
+			{
+                Console.WriteLine(IsLargerThanNeighbours(arr, i));
+			}
+        }
+
         static bool IsLargerThanNeighbours(int[] arr, int i)
         {
             bool result = false;
+
             if (i >= 1 && i <= arr.Length - 2)
             {
                 if (arr[i] > arr[i - 1] && arr[i] > arr[i + 1])
@@ -32,16 +42,8 @@ namespace LargerThanNeighbours
                     result = true;
                 }
             }
-            return result;
-        }
 
-        static void Main(string[] args)
-        {
-            int[] arr = new int[] { 1, 3, 4, 5, 1, 0, 5 };
-            for (int i = 0; i < arr.Length ; i++)
-			{
-                Console.WriteLine(IsLargerThanNeighbours(arr, i));
-			}
+            return result;
         }
 
     }
