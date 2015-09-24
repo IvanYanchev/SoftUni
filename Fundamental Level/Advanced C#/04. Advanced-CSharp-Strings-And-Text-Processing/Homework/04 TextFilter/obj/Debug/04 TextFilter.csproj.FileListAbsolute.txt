@@ -3,3 +3,8 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\TextFilter\bin\Debug\TextFilter.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\TextFilter\obj\Debug\TextFilter.exe
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\TextFilter\obj\Debug\TextFilter.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\04 TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\04 TextFilter\obj\Debug\TextFilter.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\04 TextFilter\obj\Debug\TextFilter.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\04 TextFilter\bin\Debug\TextFilter.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\04 TextFilter\bin\Debug\TextFilter.pdb

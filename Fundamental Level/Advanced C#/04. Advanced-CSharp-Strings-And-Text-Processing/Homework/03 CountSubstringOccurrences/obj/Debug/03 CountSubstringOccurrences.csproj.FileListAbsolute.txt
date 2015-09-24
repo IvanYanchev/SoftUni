@@ -4,3 +4,9 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\CountSubstringOccurrences\obj\Debug\03 CountSubstringOccurrences.csprojResolveAssemblyReference.cache
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Strings-And-Text-Processing-Homework\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\04. Advanced-CSharp-Strings-And-Text-Processing\Homework\03 CountSubstringOccurrences\obj\Debug\03 CountSubstringOccurrences.csprojResolveAssemblyReference.cache

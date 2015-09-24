@@ -8,7 +8,7 @@ namespace ReverseString
 {
     class ReverseString
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string input = Console.ReadLine();
             string output = string.Join("", input.Reverse());

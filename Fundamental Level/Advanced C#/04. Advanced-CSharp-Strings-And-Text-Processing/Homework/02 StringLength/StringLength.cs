@@ -8,10 +8,12 @@ namespace StringLength
 {
     class StringLength
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string inputString = Console.ReadLine();
+
             string outputString = string.Empty;
+
             if (inputString.Length > 20)
             {
                 outputString = inputString.Substring(0, 20);
@@ -20,6 +22,7 @@ namespace StringLength
             {
                 outputString = inputString.PadRight(20, '*');
             }
+
             Console.WriteLine(outputString);
         }
     }

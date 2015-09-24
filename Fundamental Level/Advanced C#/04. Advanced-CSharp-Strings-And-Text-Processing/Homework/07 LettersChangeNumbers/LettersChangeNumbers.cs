@@ -8,17 +8,7 @@ namespace LettersChangeNumbers
 {
     class LettersChangeNumbers
     {
-        static bool IsUpper(char ch)
-        {
-            bool isUpper = true;
-            if (ch >= 'a' && ch <= 'z')
-            {
-                isUpper = false;
-            }
-            return isUpper;
-        }
-
-        static void Main(string[] args)
+        static void Main()
         {
             string inputLine = Console.ReadLine();
 
@@ -29,8 +19,8 @@ namespace LettersChangeNumbers
                 char letterStart = sequence[0];
                 char letterEnd = sequence[sequence.Length - 1];
                 int number = int.Parse(sequence.Substring(1, sequence.Length - 2));
-
-                if (IsUpper(letterStart))
+                
+                if (char.IsUpper(letterStart))
                 {
                     sum = sum + number / (letterStart - 'A' + 1d);
                 }
@@ -38,7 +28,7 @@ namespace LettersChangeNumbers
                 {
                     sum = sum + number * (letterStart - 'a' + 1d);
                 }
-                if (IsUpper(letterEnd))
+                if (char.IsUpper(letterEnd))
                 {
                     sum = sum - (letterEnd - 'A' + 1d);
                 }

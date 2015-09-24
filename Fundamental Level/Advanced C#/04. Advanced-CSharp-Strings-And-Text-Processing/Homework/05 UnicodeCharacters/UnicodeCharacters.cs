@@ -21,6 +21,7 @@ namespace UnicodeCharacters
             }
 
             string output = hexString.ToString();
+
             Console.WriteLine(output);
         }
     }

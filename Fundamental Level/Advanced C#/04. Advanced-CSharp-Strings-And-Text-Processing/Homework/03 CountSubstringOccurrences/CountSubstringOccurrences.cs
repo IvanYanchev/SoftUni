@@ -11,6 +11,7 @@ namespace CountSubstringOccurrences
         static void Main(string[] args)
         {
             string inputString = Console.ReadLine().ToLower();
+
             string substring = Console.ReadLine().ToLower();
 
             int countFound = 0;
