@@ -24,10 +24,10 @@ namespace Problem4
 
                 string correctInputPattern = @"(([a-zA-Z]+\s){1,3})@(([a-zA-Z]+\s){1,3})(\d+)\s(\d+)";
 
-                Match match = Regex.Match(input, correctInputPattern);
-
-                if (match.Length > 0)
+                if (Regex.IsMatch(input, correctInputPattern))
                 {
+                    Match match = Regex.Match(input, correctInputPattern);
+
                     string singer = match.Groups[1].Value.Trim();
                     string venue = match.Groups[3].Value.Trim();
                     int ticketsPrice = int.Parse(match.Groups[5].Value);
