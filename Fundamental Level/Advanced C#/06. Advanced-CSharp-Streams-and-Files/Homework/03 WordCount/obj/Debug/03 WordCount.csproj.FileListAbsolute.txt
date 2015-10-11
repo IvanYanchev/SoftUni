@@ -4,3 +4,9 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\WordCount\obj\Debug\03 WordCount.csprojResolveAssemblyReference.cache
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\WordCount\obj\Debug\WordCount.exe
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\WordCount\obj\Debug\WordCount.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\obj\Debug\WordCount.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\obj\Debug\WordCount.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\bin\Debug\WordCount.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\bin\Debug\WordCount.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\03 WordCount\obj\Debug\03 WordCount.csprojResolveAssemblyReference.cache

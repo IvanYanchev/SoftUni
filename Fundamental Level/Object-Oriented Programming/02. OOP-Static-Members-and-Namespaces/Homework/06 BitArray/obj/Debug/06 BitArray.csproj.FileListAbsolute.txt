@@ -4,3 +4,6 @@ C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Static-Members-and-Names
 C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\BitArray\obj\Debug\06 BitArray.csprojResolveAssemblyReference.cache
 C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\BitArray\obj\Debug\BitArray.exe
 C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\BitArray\obj\Debug\BitArray.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\06 BitArray\bin\Debug\BitArray.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\06 BitArray\obj\Debug\BitArray.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\06 BitArray\obj\Debug\BitArray.pdb

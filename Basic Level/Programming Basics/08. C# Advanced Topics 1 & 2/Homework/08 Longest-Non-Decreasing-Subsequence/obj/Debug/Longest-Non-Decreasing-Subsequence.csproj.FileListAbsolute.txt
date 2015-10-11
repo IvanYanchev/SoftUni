@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\bin\Debug\Longest-Non-Decreasing-Subsequence.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\bin\Debug\Longest-Non-Decreasing-Subsequence.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\bin\Debug\Longest-Non-Decreasing-Subsequence.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\obj\Debug\Longest-Non-Decreasing-Subsequence.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\obj\Debug\Longest-Non-Decreasing-Subsequence.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\Longest-Non-Decreasing-Subsequence\obj\Debug\Longest-Non-Decreasing-Subsequence.pdb

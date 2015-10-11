@@ -4,3 +4,6 @@ c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Names
 c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\bin\Debug\HtmlDispatcher.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\obj\Debug\HtmlDispatcher.exe
 c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\obj\Debug\HtmlDispatcher.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\05 HtmlDispatcher\bin\Debug\HtmlDispatcher.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\05 HtmlDispatcher\obj\Debug\HtmlDispatcher.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Static-Members-and-Namespaces\Homework\05 HtmlDispatcher\obj\Debug\HtmlDispatcher.pdb

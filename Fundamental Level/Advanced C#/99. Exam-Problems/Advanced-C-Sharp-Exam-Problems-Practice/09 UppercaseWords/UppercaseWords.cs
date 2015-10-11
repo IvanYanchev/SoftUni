@@ -19,27 +19,28 @@ namespace UppercaseWords
                 {
                     break;
                 }
-                string upperCaseWordPattern = @"(\b|\d)([A-Z]+)(\b|\d)";
-                MatchCollection upperCaseWords = Regex.Matches(inputText, upperCaseWordPattern);
-                
-                string outputText = inputText;
-                foreach (var word in upperCaseWords.OfType<Match>().Select(x => x.Groups[2].Value).Distinct())
+
+                string[] words = inputText.Split(' ');
+                for (int i = 0; i < words.Length; i++)
                 {
-                    string replaceWord = string.Join("", word.Reverse());
-                    if (replaceWord == word)
+                    string upperCaseWordPattern = @"(\b|\d)([A-Z]+)(\b|\d)";
+                    MatchCollection upperCaseWords = Regex.Matches(words[i], upperCaseWordPattern);
+                    foreach (Match word in upperCaseWords)
                     {
-                        replaceWord = string.Empty;
-                        for (int i = 0; i < word.Length; i++)
+                        string replaceWord = string.Join("", word.Groups[2].Value.Reverse());
+                        if (replaceWord == word.Groups[2].Value)
                         {
-                            replaceWord += new string(word[i], 2);
+                            replaceWord = string.Empty;
+                            for (int j = 0; j < word.Groups[2].Value.Length; j++)
+                            {
+                                replaceWord += new string(word.Groups[2].Value[j], 2);
+                            }
                         }
+                        words[i] = Regex.Replace(words[i], word.Groups[2].Value, replaceWord);
                     }
-                    outputText = Regex.Replace(outputText, word, replaceWord);
                 }
-
-                Console.WriteLine(SecurityElement.Escape(outputText));
+                Console.WriteLine(SecurityElement.Escape(string.Join(" ", words)));
             }
-
         }
     }
 }

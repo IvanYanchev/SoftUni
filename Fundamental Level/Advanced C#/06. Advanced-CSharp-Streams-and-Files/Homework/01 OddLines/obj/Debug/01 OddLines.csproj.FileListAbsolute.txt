@@ -7,3 +7,6 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\bin\Debug\OddLines.exe.config
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\obj\Debug\OddLines.exe
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\obj\Debug\OddLines.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\bin\Debug\OddLines.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\bin\Debug\OddLines.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\01 OddLines\obj\Debug\01 OddLines.csprojResolveAssemblyReference.cache

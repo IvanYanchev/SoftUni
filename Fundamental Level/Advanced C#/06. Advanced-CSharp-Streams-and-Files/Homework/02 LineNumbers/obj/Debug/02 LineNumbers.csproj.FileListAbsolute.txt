@@ -4,3 +4,9 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\LineNumbers\bin\Debug\LineNumbers.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\LineNumbers\obj\Debug\LineNumbers.exe
 c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\LineNumbers\obj\Debug\LineNumbers.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\bin\Debug\LineNumbers.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\obj\Debug\LineNumbers.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\obj\Debug\LineNumbers.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\bin\Debug\LineNumbers.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\bin\Debug\LineNumbers.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\02 LineNumbers\obj\Debug\02 LineNumbers.csprojResolveAssemblyReference.cache

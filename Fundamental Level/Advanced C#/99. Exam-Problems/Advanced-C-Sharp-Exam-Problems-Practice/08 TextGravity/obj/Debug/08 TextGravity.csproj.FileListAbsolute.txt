@@ -7,3 +7,6 @@ c:\users\ivan\documents\visual studio 2013\Projects\Advanced-C-Sharp-Exam-Proble
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\bin\Debug\TextGravity.exe.config
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\obj\Debug\TextGravity.exe
 C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\obj\Debug\TextGravity.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\bin\Debug\TextGravity.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\bin\Debug\TextGravity.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\08 TextGravity\obj\Debug\08 TextGravity.csprojResolveAssemblyReference.cache

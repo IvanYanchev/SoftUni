@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\bin\Debug\CountOfLetters.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\bin\Debug\CountOfLetters.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\bin\Debug\CountOfLetters.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\obj\Debug\CountOfLetters.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\obj\Debug\CountOfLetters.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Advanced-Topics\CountOfLetters\obj\Debug\CountOfLetters.pdb

@@ -4,3 +4,6 @@ c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-A
 c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\bin\Debug\CompoundInterest.pdb
 c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\obj\Debug\CompoundInterest.exe
 c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\obj\Debug\CompoundInterest.pdb
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\CompoundInterest\obj\Debug\CompoundInterest.pdb
