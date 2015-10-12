@@ -22,9 +22,7 @@ namespace Problem2
             char[,] infestedLair = new char[lairDimentions[0], lairDimentions[1]];
 
             int playerPositionRow = 0;
-            int newPlayerPositionRow = 0;
             int playerPositionCol = 0;
-            int newPlayerPositionCol = 0;
 
             //ВХОД НА МАТРИЦАТА
             for (int i = 0; i < lairDimentions[0]; i++)
@@ -42,6 +40,9 @@ namespace Problem2
                 }
             }
 
+            int newPlayerPositionRow = playerPositionRow;
+            int newPlayerPositionCol = playerPositionCol;
+
             //ВХОД НА КОМАНДНИЯ РЕД
             string commands = Console.ReadLine();
 
@@ -57,7 +58,7 @@ namespace Problem2
                         newPlayerPositionCol = playerPositionCol;
                         break;
                     case 'D':
-                        newPlayerPositionRow = newPlayerPositionRow + 1;
+                        newPlayerPositionRow = playerPositionRow + 1;
                         newPlayerPositionCol = playerPositionCol;
                         break;
                     case 'L':
