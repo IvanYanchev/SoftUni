@@ -14,15 +14,14 @@ namespace Problem2
 
             int[] lairDimentions = firstInputLine.Split(' ').Select(int.Parse).ToArray();
 
-            int dim1 = lairDimentions[0];
-            int dim2 = lairDimentions[1];
-
             char[,] lair = new char[lairDimentions[0], lairDimentions[1]];
 
             char[,] infestedLair = new char[lairDimentions[0], lairDimentions[1]];
 
             int playerPositionRow = 0;
+
             int playerPositionCol = 0;
+
 
             //ВХОД НА МАТРИЦАТА
             for (int i = 0; i < lairDimentions[0]; i++)
@@ -39,9 +38,8 @@ namespace Problem2
                     lair[i, j] = inputLine[j];
                 }
             }
-
-            int newPlayerPositionRow = playerPositionRow;
-            int newPlayerPositionCol = playerPositionCol;
+            int newPlayerPositionRow = 0;
+            int newPlayerPositionCol = 0;
 
             //ВХОД НА КОМАНДНИЯ РЕД
             string commands = Console.ReadLine();
@@ -71,7 +69,10 @@ namespace Problem2
                         break;
                 }
 
-                if (newPlayerPositionRow < 0 || newPlayerPositionRow >= lair.GetLength(0) || newPlayerPositionCol < 0 || newPlayerPositionCol >= lair.GetLength(1))
+                if (newPlayerPositionRow < 0 || 
+                    newPlayerPositionRow >= lair.GetLength(0) || 
+                    newPlayerPositionCol < 0 || 
+                    newPlayerPositionCol >= lair.GetLength(1))
                 {
                     PrintLair(InfestLair(lair));
                     PrintResult("won", playerPositionRow, playerPositionCol);
@@ -79,51 +80,29 @@ namespace Problem2
                 }
                 else if (lair[newPlayerPositionRow, newPlayerPositionCol] == 'B')
                 {
-                    infestedLair = InfestLair(lair);
-                    for (int l = 0; l < lair.GetLength(0); l++)
-                    {
-                        for (int k = 0; k < lair.GetLength(1); k++)
-                        {
-                            lair[l, k] = infestedLair[l, k];
-                        }
-                    }
-                    PrintLair(lair);
+                    PrintLair(InfestLair(lair));
                     PrintResult("dead", newPlayerPositionRow, newPlayerPositionCol);
                     return;
                 }
-                else if (lair[newPlayerPositionRow, newPlayerPositionCol] == '.')
+                else //if (lair[newPlayerPositionRow, newPlayerPositionCol] == '.')
                 {
-                    infestedLair = InfestLair(lair);
-                    for (int l = 0; l < lair.GetLength(0); l++)
-                    {
-                        for (int k = 0; k < lair.GetLength(1); k++)
-                        {
-                            lair[l, k] = infestedLair[l, k];
-                        }
-                    }
-                    if (lair[playerPositionRow,playerPositionCol] == 'B')
+                    lair = InfestLair(lair);
+
+                    if (lair[newPlayerPositionRow, newPlayerPositionCol] == 'B')
                     {
                         PrintLair(lair);
-                        PrintResult("dead", playerPositionRow, playerPositionCol);
+                        PrintResult("dead", newPlayerPositionRow, newPlayerPositionCol);
                         return;
                     }
+
                     playerPositionRow = newPlayerPositionRow;
                     playerPositionCol = newPlayerPositionCol;
-                    lair[playerPositionRow, playerPositionCol] = 'P';
+                    //lair[playerPositionRow, playerPositionCol] = 'P';
                 }
 
-
-
-                Console.WriteLine("############### Command -> {0}", commands[j]);
-                PrintLair(lair);
-
-                //for (int l = 0; l < lair.GetLength(0); l++)
-                //{
-                //    for (int k = 0; k < lair.GetLength(1); k++)
-                //    {
-                //        lair[l, k] = infestedLair[l, k];
-                //    }
-                //}
+                //ТЕСТОВО ПОХОДОВО ПРИНТИРАНЕ (да се закоментира преди да се пусне в джъджа)
+                //Console.WriteLine("############### Command -> {0}", commands[j]);
+                //PrintLair(lair);
             }
         }
 
