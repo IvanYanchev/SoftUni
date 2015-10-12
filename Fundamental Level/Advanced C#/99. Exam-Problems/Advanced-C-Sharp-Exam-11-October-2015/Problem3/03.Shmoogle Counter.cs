@@ -22,14 +22,14 @@ namespace Problem3
                     break;
                 }
 
-                string pattern = @"(int|double)([[],*])*\s+(\w{1,25})";
+                string pattern = @"\b(int|double) ([a-z][a-zA-Z]{0,24})";
 
                 MatchCollection matches = Regex.Matches(inputLine, pattern);
 
                 foreach (Match match in matches)
                 {
                     string typeOfVariable = match.Groups[1].Value;
-                    string nameOfVariable = match.Groups[3].Value;
+                    string nameOfVariable = match.Groups[2].Value;
 
                     if (typeOfVariable == "int")
                     {
