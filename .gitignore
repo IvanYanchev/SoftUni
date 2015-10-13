@@ -204,7 +204,7 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-#other files
+# MSOffice files and archives
 *.pptx
 *.docx
 *.xlsx
