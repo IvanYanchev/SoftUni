@@ -1,3 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\21 BitSifting\bin\Debug\BitSifting.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\21 BitSifting\obj\Debug\BitSifting.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\21 BitSifting\obj\Debug\BitSifting.pdb

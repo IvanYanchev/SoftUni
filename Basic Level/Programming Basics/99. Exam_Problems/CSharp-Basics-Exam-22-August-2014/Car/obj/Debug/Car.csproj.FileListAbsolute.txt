@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\CSharp-Basics-Exam-22-August-2014\Car\bin\Debug\Car.exe.config

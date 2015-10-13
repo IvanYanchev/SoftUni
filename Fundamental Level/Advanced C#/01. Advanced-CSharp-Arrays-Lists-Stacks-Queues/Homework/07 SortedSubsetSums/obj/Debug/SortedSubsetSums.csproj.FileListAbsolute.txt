@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.exe
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SortedSubsetSums\bin\Debug\SortedSubsetSums.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SortedSubsetSums\obj\Debug\SortedSubsetSums.exe
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\SortedSubsetSums\obj\Debug\SortedSubsetSums.pdb

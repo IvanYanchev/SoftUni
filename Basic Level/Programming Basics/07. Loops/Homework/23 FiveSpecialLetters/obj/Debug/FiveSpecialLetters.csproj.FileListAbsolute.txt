@@ -1,9 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\23 FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\23 FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\23 FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

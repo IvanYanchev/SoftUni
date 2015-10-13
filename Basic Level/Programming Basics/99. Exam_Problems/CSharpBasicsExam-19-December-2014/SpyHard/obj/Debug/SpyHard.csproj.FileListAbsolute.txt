@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\bin\Debug\SpyHard.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\bin\Debug\SpyHard.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\bin\Debug\SpyHard.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\obj\Debug\SpyHard.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\obj\Debug\SpyHard.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\CSharpBasicsExam-19-December-2014\SpyHard\obj\Debug\SpyHard.pdb

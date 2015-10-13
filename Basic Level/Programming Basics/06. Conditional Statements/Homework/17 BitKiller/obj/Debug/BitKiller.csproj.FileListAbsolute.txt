@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\bin\Debug\BitKiller.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\bin\Debug\BitKiller.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\bin\Debug\BitKiller.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\obj\Debug\BitKiller.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\obj\Debug\BitKiller.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\BitKiller\obj\Debug\BitKiller.pdb

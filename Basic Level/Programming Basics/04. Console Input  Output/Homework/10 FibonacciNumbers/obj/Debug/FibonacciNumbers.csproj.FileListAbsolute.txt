@@ -1,5 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\bin\Debug\FriendBits.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\bin\Debug\FriendBits.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\bin\Debug\FriendBits.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\obj\Debug\FriendBits.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\obj\Debug\FriendBits.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\FriendBits\obj\Debug\FriendBits.pdb

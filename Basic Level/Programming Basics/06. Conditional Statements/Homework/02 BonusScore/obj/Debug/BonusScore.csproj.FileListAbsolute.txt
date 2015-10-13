@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

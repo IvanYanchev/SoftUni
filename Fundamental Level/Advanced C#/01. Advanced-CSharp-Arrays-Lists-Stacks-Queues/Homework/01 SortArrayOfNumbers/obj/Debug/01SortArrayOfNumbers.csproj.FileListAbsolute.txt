@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\01SortArrayOfNumbers\bin\Debug\01SortArrayOfNumbers.exe.config

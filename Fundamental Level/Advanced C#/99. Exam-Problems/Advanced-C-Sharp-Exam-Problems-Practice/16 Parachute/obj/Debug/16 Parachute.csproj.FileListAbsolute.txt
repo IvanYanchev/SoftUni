@@ -1,9 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\bin\Debug\16 Parachute.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\bin\Debug\16 Parachute.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\bin\Debug\16 Parachute.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\obj\Debug\16 Parachute.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\obj\Debug\16 Parachute.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\obj\Debug\16 Parachute.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\bin\Debug\16 Parachute.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\obj\Debug\16 Parachute.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\16 Parachute\obj\Debug\16 Parachute.pdb

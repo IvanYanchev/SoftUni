@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\DrawFigure\bin\Debug\DrawFigure.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\DrawFigure\bin\Debug\DrawFigure.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\DrawFigure\bin\Debug\DrawFigure.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\DrawFigure\obj\Debug\DrawFigure.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Sample-Exam-May-2014\DrawFigure\obj\Debug\DrawFigure.pdb

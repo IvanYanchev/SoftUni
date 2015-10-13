@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\LineNumbers\bin\Debug\LineNumbers.exe.config

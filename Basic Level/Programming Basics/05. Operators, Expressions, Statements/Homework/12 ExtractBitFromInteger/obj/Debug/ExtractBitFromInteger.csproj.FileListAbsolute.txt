@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

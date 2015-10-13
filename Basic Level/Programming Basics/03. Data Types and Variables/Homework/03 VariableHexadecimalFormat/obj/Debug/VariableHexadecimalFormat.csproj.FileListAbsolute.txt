@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.exe
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\VariableHexadecimalFormat\obj\Debug\VariableHexadecimalFormat.exe
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\VariableHexadecimalFormat\obj\Debug\VariableHexadecimalFormat.pdb

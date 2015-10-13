@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Methods-Homework\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb

@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-25-July-2014-Morning\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb

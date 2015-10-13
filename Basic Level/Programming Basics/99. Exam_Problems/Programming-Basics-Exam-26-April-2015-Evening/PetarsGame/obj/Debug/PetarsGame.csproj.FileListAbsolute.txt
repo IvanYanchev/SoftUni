@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\bin\Debug\PetarsGame.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\bin\Debug\PetarsGame.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\bin\Debug\PetarsGame.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\obj\Debug\PetarsGame.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\obj\Debug\PetarsGame.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\obj\Debug\PetarsGame.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\bin\Debug\PetarsGame.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\obj\Debug\PetarsGame.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\99. Exam_Problems\Programming-Basics-Exam-26-April-2015-Evening\PetarsGame\obj\Debug\PetarsGame.pdb

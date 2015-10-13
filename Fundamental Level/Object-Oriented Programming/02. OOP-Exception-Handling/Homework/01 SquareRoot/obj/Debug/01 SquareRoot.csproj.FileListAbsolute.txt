@@ -1,6 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\bin\Debug\SquareRoot.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\obj\Debug\SquareRoot.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\obj\Debug\SquareRoot.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\bin\Debug\SquareRoot.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\bin\Debug\SquareRoot.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Object-Oriented Programming\02. OOP-Exception-Handling\Homework\01 SquareRoot\obj\Debug\01 SquareRoot.csprojResolveAssemblyReference.cache

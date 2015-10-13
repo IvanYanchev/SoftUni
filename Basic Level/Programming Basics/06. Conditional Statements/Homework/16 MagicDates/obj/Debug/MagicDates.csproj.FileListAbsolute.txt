@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\bin\Debug\MagicDates.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\bin\Debug\MagicDates.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\bin\Debug\MagicDates.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\obj\Debug\MagicDates.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\MagicDates\obj\Debug\MagicDates.pdb

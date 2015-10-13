@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\bin\Debug\ZeroSubset.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\obj\Debug\ZeroSubset.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\obj\Debug\ZeroSubset.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\ZeroSubset\obj\Debug\ZeroSubset.pdb

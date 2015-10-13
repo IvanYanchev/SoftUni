@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\bin\Debug\SlicingFile.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\bin\Debug\SlicingFile.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\bin\Debug\SlicingFile.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\obj\Debug\05 SlicingFile.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\obj\Debug\SlicingFile.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Streams-And-Files-Homework\SlicingFile\obj\Debug\SlicingFile.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\05 SlicingFile\bin\Debug\SlicingFile.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\05 SlicingFile\obj\Debug\SlicingFile.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\06. Advanced-CSharp-Streams-and-Files\Homework\05 SlicingFile\obj\Debug\SlicingFile.pdb

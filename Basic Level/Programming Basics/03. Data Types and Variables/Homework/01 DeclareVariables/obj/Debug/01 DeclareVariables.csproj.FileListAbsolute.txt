@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\03. Data Types and Variables\Homework\01 DeclareVariables\bin\Debug\DeclareVariables.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\03. Data Types and Variables\Homework\01 DeclareVariables\obj\Debug\DeclareVariables.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\03. Data Types and Variables\Homework\01 DeclareVariables\obj\Debug\DeclareVariables.pdb

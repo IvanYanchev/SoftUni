@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
-c:\users\ivan\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

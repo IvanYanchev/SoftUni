@@ -1,8 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\bin\Debug\Calculate.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\obj\Debug\Calculate.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Loops\Calculate\obj\Debug\Calculate.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 Calculate\bin\Debug\Calculate.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 Calculate\obj\Debug\Calculate.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\05 Calculate\obj\Debug\Calculate.pdb

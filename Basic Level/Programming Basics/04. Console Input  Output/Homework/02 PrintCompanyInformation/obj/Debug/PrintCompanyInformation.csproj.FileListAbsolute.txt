@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Console-Input-Output\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Console-Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Console-Input-Output\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

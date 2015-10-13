@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\Disk\bin\Debug\Disk.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\Disk\bin\Debug\Disk.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\Disk\bin\Debug\Disk.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\Disk\obj\Debug\Disk.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-28-April-2014\Disk\obj\Debug\Disk.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb

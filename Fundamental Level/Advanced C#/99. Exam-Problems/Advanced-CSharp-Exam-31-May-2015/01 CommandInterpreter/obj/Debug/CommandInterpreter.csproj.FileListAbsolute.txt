@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Advanced-CSharp-Exam-31-May-2015\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config

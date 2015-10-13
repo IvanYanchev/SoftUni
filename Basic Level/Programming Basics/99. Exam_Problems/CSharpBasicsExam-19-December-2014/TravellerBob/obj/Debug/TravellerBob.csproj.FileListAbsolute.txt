@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\CSharpBasicsExam-19-December-2014\TravellerBob\bin\Debug\TravellerBob.exe.config

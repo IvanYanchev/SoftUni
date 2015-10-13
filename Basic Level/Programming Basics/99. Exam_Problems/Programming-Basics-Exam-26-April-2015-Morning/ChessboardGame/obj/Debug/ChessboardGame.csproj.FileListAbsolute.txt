@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\bin\Debug\ChessboardGame.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\bin\Debug\ChessboardGame.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\bin\Debug\ChessboardGame.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\obj\Debug\ChessboardGame.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\obj\Debug\ChessboardGame.exe
-c:\users\ivan\documents\visual studio 2013\Projects\Programming-Basics-Exam-26-April-2015-Morning\ChessboardGame\obj\Debug\ChessboardGame.pdb

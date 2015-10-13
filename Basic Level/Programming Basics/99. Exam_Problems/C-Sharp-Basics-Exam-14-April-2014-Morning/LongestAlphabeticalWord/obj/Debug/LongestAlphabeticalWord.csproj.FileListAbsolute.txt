@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-14-April-2014-Morning\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.pdb

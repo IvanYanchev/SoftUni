@@ -1,9 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\14 DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\14 DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\14 DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

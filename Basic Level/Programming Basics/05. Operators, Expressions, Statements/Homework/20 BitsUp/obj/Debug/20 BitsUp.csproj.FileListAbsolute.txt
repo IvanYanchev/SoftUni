@@ -1,3 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\20 BitsUp\bin\Debug\BitsUp.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\20 BitsUp\obj\Debug\BitsUp.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\05. Operators, Expressions, Statements\Homework\20 BitsUp\obj\Debug\BitsUp.pdb

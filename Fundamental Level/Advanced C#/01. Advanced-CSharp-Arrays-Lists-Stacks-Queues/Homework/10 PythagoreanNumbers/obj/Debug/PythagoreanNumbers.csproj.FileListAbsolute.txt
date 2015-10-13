@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\bin\Debug\PythagoreanNumbers.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\1-Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\PythagoreanNumbers\obj\Debug\PythagoreanNumbers.pdb

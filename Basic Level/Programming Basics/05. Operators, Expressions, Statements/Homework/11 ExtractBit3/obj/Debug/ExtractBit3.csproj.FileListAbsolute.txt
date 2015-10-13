@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\bin\Debug\ExtractBit3.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\obj\Debug\ExtractBit3.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ExtractBit3\obj\Debug\ExtractBit3.pdb

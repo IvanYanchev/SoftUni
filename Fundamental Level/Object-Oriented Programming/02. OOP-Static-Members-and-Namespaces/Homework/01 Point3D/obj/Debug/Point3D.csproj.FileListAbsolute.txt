@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\Point3D\bin\Debug\Point3D.exe.config

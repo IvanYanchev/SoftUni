@@ -1,6 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\bin\Debug\PcCatalog.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\bin\Debug\PcCatalog.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\bin\Debug\PcCatalog.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\obj\Debug\03 PcCatalog.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\obj\Debug\PcCatalog.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OOP-Defining-Classes-Homework\PcCatalog\obj\Debug\PcCatalog.pdb

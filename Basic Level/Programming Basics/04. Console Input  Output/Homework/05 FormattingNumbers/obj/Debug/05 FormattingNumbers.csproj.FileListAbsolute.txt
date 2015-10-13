@@ -1,5 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Console-Input-Output\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

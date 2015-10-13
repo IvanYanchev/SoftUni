@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OOP-Static-Members-and-Namespaces-Homework\HtmlDispatcher\bin\Debug\HtmlDispatcher.exe.config

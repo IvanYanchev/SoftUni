@@ -1,5 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\07 Phonebook\bin\Debug\Phonebook.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\07 Phonebook\obj\Debug\Phonebook.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\07 Phonebook\obj\Debug\Phonebook.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\07 Phonebook\bin\Debug\Phonebook.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\07 Phonebook\bin\Debug\Phonebook.pdb

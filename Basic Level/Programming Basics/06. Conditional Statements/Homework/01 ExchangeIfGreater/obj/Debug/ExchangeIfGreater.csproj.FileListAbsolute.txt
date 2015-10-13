@@ -1,9 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
-c:\users\ivan\documents\visual studio 2013\Projects\HomeworkConditionalStatements\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\06. Conditional Statements\Homework\01 ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\06. Conditional Statements\Homework\01 ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\06. Conditional Statements\Homework\01 ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

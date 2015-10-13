@@ -1,9 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\bin\Debug\OhMyGirl.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\20 OhMyGirl.csprojResolveAssemblyReference.cache
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\OhMyGirl.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-C-Sharp-Exam-Problems-Practice\OhMyGirl\obj\Debug\OhMyGirl.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\20 OhMyGirl\bin\Debug\OhMyGirl.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\20 OhMyGirl\obj\Debug\OhMyGirl.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\99. Exam-Problems\Advanced-C-Sharp-Exam-Problems-Practice\20 OhMyGirl\obj\Debug\OhMyGirl.pdb

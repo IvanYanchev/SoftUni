@@ -1,1 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Advanced-CSharp-Exam-31-May-2015\TextTransformer\bin\Debug\TextTransformer.exe.config

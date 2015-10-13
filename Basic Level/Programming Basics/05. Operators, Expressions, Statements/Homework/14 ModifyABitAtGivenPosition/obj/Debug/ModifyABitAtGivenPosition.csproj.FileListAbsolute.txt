@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
-c:\users\ivan\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb

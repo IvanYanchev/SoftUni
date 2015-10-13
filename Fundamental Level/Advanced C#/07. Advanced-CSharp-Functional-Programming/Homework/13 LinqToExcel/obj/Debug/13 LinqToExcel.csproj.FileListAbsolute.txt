@@ -1,8 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\bin\Debug\LinqToExcel.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\obj\Debug\LinqToExcel.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\obj\Debug\LinqToExcel.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\bin\Debug\LinqToExcel.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\bin\Debug\LinqToExcel.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\bin\Debug\EPPlus.dll
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\bin\Debug\EPPlus.xml
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\07. Advanced-CSharp-Functional-Programming\Homework\13 LinqToExcel\obj\Debug\13 LinqToExcel.csprojResolveAssemblyReference.cache

@@ -1,1 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config

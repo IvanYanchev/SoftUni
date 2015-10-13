@@ -1,5 +1,0 @@
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\12 ToTheStars!\bin\Debug\ToTheStars!.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\12 ToTheStars!\obj\Debug\ToTheStars!.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\12 ToTheStars!\obj\Debug\ToTheStars!.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\12 ToTheStars!\bin\Debug\ToTheStars!.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Fundamental Level\Advanced C#\02. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Homework\12 ToTheStars!\bin\Debug\ToTheStars!.pdb

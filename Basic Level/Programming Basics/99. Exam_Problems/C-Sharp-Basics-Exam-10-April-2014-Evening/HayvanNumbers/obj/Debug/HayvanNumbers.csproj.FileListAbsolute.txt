@@ -1,5 +1,0 @@
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-10-April-2014-Evening\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-10-April-2014-Evening\HayvanNumbers\bin\Debug\HayvanNumbers.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-10-April-2014-Evening\HayvanNumbers\bin\Debug\HayvanNumbers.pdb
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-10-April-2014-Evening\HayvanNumbers\obj\Debug\HayvanNumbers.exe
-c:\users\ivan\documents\visual studio 2013\Projects\C-Sharp-Basics-Exam-10-April-2014-Evening\HayvanNumbers\obj\Debug\HayvanNumbers.pdb

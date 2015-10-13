@@ -1,8 +1,0 @@
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
-C:\Users\Ivan\Documents\Visual Studio 2013\Projects\Loops\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\13 BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\13 BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
-C:\Users\Ivan\Desktop\SOFTUNI\SoftUni Courses\Basic Level\Programming Basics\07. Loops\Homework\13 BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb
