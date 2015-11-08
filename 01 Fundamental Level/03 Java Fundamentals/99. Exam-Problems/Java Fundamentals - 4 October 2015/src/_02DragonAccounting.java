@@ -7,11 +7,12 @@ public class _02DragonAccounting {
         Locale.setDefault(Locale.ROOT);
         Scanner scanner = new Scanner(System.in);
 
-        ArrayList<BigDecimal[]> employees = new ArrayList<BigDecimal[]>();
+        ArrayList<BigDecimal[]> employees = new ArrayList<>();
 
         BigDecimal initialCapital = new BigDecimal(scanner.nextLine());
 
         int day = 1;
+        int indexOldestEmployees = 0;
 
         while (true) {
             String inputLine = scanner.nextLine();
@@ -22,53 +23,70 @@ public class _02DragonAccounting {
 
             String[] arguments = inputLine.split(";");
             BigDecimal hired = new BigDecimal(arguments[0]);
-            long fired = new BigDecimal(arguments[1]).longValue();
+            long fired = Long.parseLong(arguments[1]);
             BigDecimal salary = new BigDecimal(arguments[2]);
 
             //hire employees
 
-            employees.add(new BigDecimal[] {hired, salary});
+            employees.add(new BigDecimal[]{hired, salary});
 
-            //check for raise
 
-            //give salaries
+            for (int k = 0; k < employees.size(); k++) {
 
-            if (day % 30 == 0) {
-                for (int k = 0; k < employees.size(); k++) {
-                    BigDecimal[] employee = employees.get(k);
+                BigDecimal countCurrentEmpl = employees.get(k)[0];
+                BigDecimal salaryCurrentEmpl = employees.get(k)[1];
+
+                if (countCurrentEmpl.compareTo(new BigDecimal(0)) > 0) {
                     int startDay = k;
                     int totalWorkDays = day - startDay;
-                    int totalWorkYears = totalWorkDays / 365;
 
-                    int workDaysThisMonth = 30;
-                    if (totalWorkDays / 30 == 0) {
-                        workDaysThisMonth = totalWorkDays % 30;
+                    //check for raise
+
+                    if (totalWorkDays % 365 == 0) {
+
+                        BigDecimal increase = new BigDecimal("1.006");
+                        salaryCurrentEmpl = salaryCurrentEmpl.multiply(increase);
+                        employees.set(k, new BigDecimal[]{countCurrentEmpl, salaryCurrentEmpl});
                     }
-                    BigDecimal countEmployees = employee[0];
-                    BigDecimal baseSalaryPerDay = employee[1].divide(new BigDecimal("30"), 20, RoundingMode.HALF_UP);
-                    BigDecimal increase = new BigDecimal(1).add(new BigDecimal("0.006").multiply(new BigDecimal(totalWorkYears)));
-                    BigDecimal salaryPerDay = baseSalaryPerDay.multiply(increase);
-                    BigDecimal monthlyPaymentForSalaries = new BigDecimal(workDaysThisMonth).multiply(countEmployees.multiply(salaryPerDay)).setScale(20, RoundingMode.HALF_UP);
-                    initialCapital = initialCapital.subtract(monthlyPaymentForSalaries);
+
+                    //give salaries
+
+                    if (day % 30 == 0) {
+
+                        int workDaysThisMonth = 30;
+
+                        if (totalWorkDays / 30 == 0) {
+                            workDaysThisMonth = totalWorkDays % 30;
+                        }
+
+                        BigDecimal salaryPerDay = salaryCurrentEmpl.divide(new BigDecimal(30), 9, RoundingMode.UP).setScale(7, BigDecimal.ROUND_DOWN);
+                        BigDecimal monthlyPaymentForSalaries = new BigDecimal(workDaysThisMonth).multiply(countCurrentEmpl.multiply(salaryPerDay));
+                        initialCapital = initialCapital.subtract(monthlyPaymentForSalaries);
+                    }
                 }
             }
 
             //fire employees
 
-            int index = 0;
-            while (fired > 0 && index < employees.size()) {
-                int countOldestEmployees = employees.get(index)[0].intValue();
-                BigDecimal salaryOldestEmployees = employees.get(index)[1];
+            while (fired > 0) {
+                long countOldestEmployees = employees.get(indexOldestEmployees)[0].longValue();
+                BigDecimal salaryOldestEmployees = employees.get(indexOldestEmployees)[1];
 
-                if (countOldestEmployees >= fired) {
-                    countOldestEmployees -= fired;
+                if (countOldestEmployees > fired) {
+                    countOldestEmployees = countOldestEmployees - fired;
+                    employees.set(indexOldestEmployees, new BigDecimal[]{new BigDecimal(countOldestEmployees), salaryOldestEmployees});
                     fired = 0;
+                } else if (countOldestEmployees == fired) {
+                    countOldestEmployees = countOldestEmployees - fired;
+                    employees.set(indexOldestEmployees, new BigDecimal[]{new BigDecimal(countOldestEmployees), salaryOldestEmployees});
+                    fired = 0;
+                    indexOldestEmployees++;
                 } else {
-                    fired -= countOldestEmployees;
+                    fired = fired - countOldestEmployees;
                     countOldestEmployees = 0;
+                    employees.set(indexOldestEmployees, new BigDecimal[]{new BigDecimal(countOldestEmployees), salaryOldestEmployees});
+                    indexOldestEmployees++;
                 }
-                employees.set(index, new BigDecimal[]{new BigDecimal(countOldestEmployees), salaryOldestEmployees});
-                index++;
             }
 
             //check for additional income/expense
@@ -100,21 +118,21 @@ public class _02DragonAccounting {
             day++;
         }
 
-        int employeesLeft = 0;
+        long employeesLeft = 0;
         for (int k = 0; k < employees.size(); k++) {
             BigDecimal[] employee = employees.get(k);
-            int countEmployees = employee[0].intValue();
+            long countEmployees = employee[0].longValue();
             employeesLeft += countEmployees;
         }
 
         System.out.printf("%d %s", employeesLeft, BigDecimalForOutput(initialCapital));
     }
 
-    public static String BigDecimalForOutput (BigDecimal capital) {
+    public static String BigDecimalForOutput(BigDecimal capital) {
         String currentCapital = capital.abs().toString();
         int dotIndex = currentCapital.indexOf('.');
         String capitalForOutput = currentCapital.substring(0, dotIndex + 5);
 
-        return  capitalForOutput;
+        return capitalForOutput;
     }
 }
