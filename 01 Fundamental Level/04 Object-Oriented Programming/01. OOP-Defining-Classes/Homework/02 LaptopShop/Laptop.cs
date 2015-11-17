@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 //Put validation in all property setters and constructors. String values cannot be empty, and numeric data cannot be negative. Throw exceptions when improper data is entered.
 
 
-namespace LaptopShop
+namespace _02_LaptopShop
 {
     public class Laptop
     {

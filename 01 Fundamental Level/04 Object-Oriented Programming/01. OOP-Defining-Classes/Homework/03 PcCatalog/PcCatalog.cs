@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PcCatalog
+namespace _03_PC_Catalog
 {
     class PcCatalog
     {
@@ -42,6 +42,7 @@ namespace PcCatalog
             
 
             List<Computer> pcs = new List<Computer>();
+
             pcs.Add(new Computer("PESHO", mb1, cpu2, ram1, hdd2, vid3, case1));
             pcs.Add(new Computer("GOSHO", mb2, cpu3, ram3, hdd4, vid1, case3));
             pcs.Add(new Computer("VIPER", mb4, cpu1, ram2, hdd1, vid2, case2));

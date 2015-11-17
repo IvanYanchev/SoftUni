@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LaptopShop
+namespace _02_LaptopShop
 {
     public class Battery
     {
         private string batteryType;
         private double? batteryLife; // in hours
 
-        public string BatteryModel
+        public string BatteryType
         {
             get
             {
@@ -43,15 +43,15 @@ namespace LaptopShop
             }
         }
 
-        public Battery (string battModel = null, double? battLife = null)
+        public Battery (string batteryType = null, double? batteryLife = null)
         {
-            this.BatteryModel = battModel;
-            this.BatteryLife = battLife;
+            this.BatteryType = batteryType;
+            this.BatteryLife = batteryLife;
         }
 
         public override string ToString()
         {
-            return string.Format("Battery type: {0}, Battery life: {1} hours", this.BatteryModel, this.BatteryLife);
+            return string.Format("Battery type: {0}, Battery life: {1} hours", this.BatteryType, this.BatteryLife);
         }
     }
 }

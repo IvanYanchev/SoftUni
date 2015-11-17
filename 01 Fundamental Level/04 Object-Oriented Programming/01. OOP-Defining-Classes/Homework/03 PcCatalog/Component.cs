@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PcCatalog
+namespace _03_PC_Catalog
 {
     class Component
     {
