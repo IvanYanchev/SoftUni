@@ -8,7 +8,7 @@ public class _04_LogParser {
 
         TreeMap<String, TreeMap<String, ArrayList<String>>> report = new TreeMap<>();
 
-        String stringPattern = "\\{\"Project\":\\s+\\[\"(.+)\"\\],\\s+\"Type\":\\s*\\[\"(.+)\"\\],\\s+\"Message\":\\s*\\[\"(.+)\"\\]\\}";
+        String stringPattern = "Project.*?(?<=\\[\\\")(.*?)(?=\\\"\\]).*?Type.*?(?<=\\[\\\")(.*?)(?=\\\"\\]).*?Message.*?(?<=\\[\\\")(.*?)(?=\\\"\\])";
         Pattern pattern = Pattern.compile(stringPattern);
 
         while (true) {

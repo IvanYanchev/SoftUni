@@ -32,7 +32,7 @@ namespace _04_SULS
                 gs,
             };
 
-            var currentStuents = list.Where(x => x is CurrentStudent).Select(x => (CurrentStudent)x).OrderBy(x => x.AverageGrade);
+            var currentStuents = list.OfType<CurrentStudent>().Select(x => (CurrentStudent)x).OrderBy(x => x.AverageGrade);
 
             foreach (var student in currentStuents)
             {

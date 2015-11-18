@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _04_Learning_System.Persons
 {
@@ -22,6 +18,10 @@ namespace _04_Learning_System.Persons
             }
             set
             {
+                if (value <= 0)
+                {
+                    throw new ArgumentOutOfRangeException("The age must be non negative number");
+                }
                 this.age = value;
             }
         }
@@ -31,6 +31,11 @@ namespace _04_Learning_System.Persons
             this.FirstName = firstName;
             this.LastName = lastName;
             this.Age = age;
+        }
+
+        public override string ToString()
+        {
+            return string.Format("Name: {0} {1}, Age: {2}", this.FirstName, this.LastName, this.Age);
         }
     }
 }

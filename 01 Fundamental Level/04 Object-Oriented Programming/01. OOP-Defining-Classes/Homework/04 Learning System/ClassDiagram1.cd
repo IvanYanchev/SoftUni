@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_04_Learning_System.Persons.Person" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAQAAEAEAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Persons\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.CurrentStudent" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAA=</HashCode>
+      <FileName>Students\CurrentStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.DropoutStudent" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Students\DropoutStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.GraduateStudent" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Students\GraduateStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.OnlineStudent" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Students\OnlineStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.OnsiteStudent" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Students\OnsiteStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Students.Student" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIAAAAAAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Students\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_SULS.SULSTest" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SULSTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Trainers.JuniorTrainer" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trainers\JuniorTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Trainers.SeniorTrainer" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Trainers\SeniorTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_04_Learning_System.Trainers.Trainer" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trainers\Trainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
