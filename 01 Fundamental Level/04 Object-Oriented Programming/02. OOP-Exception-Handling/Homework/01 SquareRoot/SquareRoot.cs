@@ -23,6 +23,10 @@ namespace SquareRoot
             {
                 Console.Error.WriteLine("Invalid number");
             }
+            catch (OverflowException ex)
+            {
+                Console.Error.WriteLine("Invalid number");
+            }
             finally
             {
                 Console.WriteLine("Good bye");

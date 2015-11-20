@@ -38,14 +38,18 @@ namespace EnterNumbers
                     }
                     else
                     {
-                        Console.Write("The entered number is not in the range [{0}…{1}]. Please enter new number: ", start+1, end-1);
+                        Console.Write("The entered number is not in the range [{0}…{1}]. Please enter new number: ",
+                            start + 1, end - 1);
                     }
                 }
                 catch (FormatException ex)
                 {
                     Console.Error.Write("The entered number is not in valid format. Please enter valid number: ");
                 }
-                
+                catch (OverflowException ex)
+                {
+                    Console.Error.Write("The entered number is not in valid format. Please enter valid number: ");
+                }
             }
         }
     }
