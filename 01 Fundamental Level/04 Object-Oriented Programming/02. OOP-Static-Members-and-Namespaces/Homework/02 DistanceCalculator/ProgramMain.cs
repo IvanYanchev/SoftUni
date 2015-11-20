@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Euclidian3dSpace
 {
-    class Program
+    class ProgramMain
     {
         static void Main()
         {

@@ -6,17 +6,39 @@ using System.Threading.Tasks;
 
 namespace HtmlDispatcher
 {
-    class HtmlDispatcher
+    public static class HtmlDispatcher
     {
-        static void Main()
+        public static string CreateImage(string imageSource, string alt, string title)
         {
-            ElementBuilder div = new ElementBuilder("div");
-  
-            div.AddAtribute("id", "page");
-            div.AddAtribute("class", "big");
-            div.AddContent("<p>Hello</p>");
+            ElementBuilder img = new ElementBuilder("img");
 
-            Console.WriteLine(div * 3);
+            img.AddAttribute("src", imageSource);
+            img.AddAttribute("alt", alt);
+            img.AddAttribute("title", title);
+
+            return img.ToString();
+        }
+
+        public static string CreateURL(string urlString, string title, string text)
+        {
+            ElementBuilder url = new ElementBuilder("a");
+
+            url.AddAttribute("href", urlString);
+            url.AddAttribute("title", title);
+            url.AddContent(text);
+
+            return url.ToString();
+        }
+
+        public static string CreateInput(string inputType, string name, string value)
+        {
+            ElementBuilder input = new ElementBuilder("input");
+
+            input.AddAttribute("type", inputType);
+            input.AddAttribute("name", name);
+            input.AddAttribute("value", value);
+
+            return input.ToString();
         }
     }
 }

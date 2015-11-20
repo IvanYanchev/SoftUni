@@ -9,37 +9,59 @@ namespace BitArray
 {
     public class BitArray
     {
-        private List<byte> bitArray = null;
+        private int capacity;
+        private byte[] bitArray;
+
+        private int Capacity
+        {
+            set
+            {
+                if (value < 1 || value > 100000)
+                {
+                    throw new ArgumentOutOfRangeException("The size of the array should be between 1 and 100 000 bits");
+                }
+                else
+                {
+                    this.capacity = value;
+                }
+            }
+        }
+
+        public BitArray(int capacity)
+        {
+            this.Capacity = capacity;
+            this.bitArray = new byte[this.capacity];
+        }
 
         public BitArray(params byte[] bits)
         {
-            bitArray = new List<byte>();
+            bitArray = new byte[bits.Length];
 
-            foreach (byte bit in bits)
+            for (int i = 0; i < bits.Length; i++)
             {
-                bitArray.Add(bit);
+                bitArray[i] = bits[i];
             }
         }
 
-        public BitArray(BigInteger number)
-        {
-            bitArray = new List<byte>();
+        //public BitArray(BigInteger number)
+        //{
+        //    bitArray = new List<byte>();
 
-            while (true)
-            {
-                BigInteger result = number / 2;
-                byte remainder = (byte)(number % 2);
-                this.bitArray.Add(remainder);
-                if (result == 0)
-                {
-                    break;
-                }
+        //    while (true)
+        //    {
+        //        BigInteger result = number / 2;
+        //        byte remainder = (byte)(number % 2);
+        //        this.bitArray.Add(remainder);
+        //        if (result == 0)
+        //        {
+        //            break;
+        //        }
 
-                number = result;
-            }
-        }
+        //        number = result;
+        //    }
+        //}
 
-        public byte this [int index]
+        public byte this[int index]
         {
             get
             {
@@ -53,18 +75,18 @@ namespace BitArray
 
         private byte GetBitAtIndex(int index)
         {
-            if (index < 0 || index > this.bitArray.Count)
+            if (index < 0 || index > this.bitArray.Length)
             {
-                throw new ArgumentOutOfRangeException("Index is out of range.");
+                throw new IndexOutOfRangeException("Index is out of range.");
             }
             return this.bitArray[index];
         }
 
         private void SetBitAtIndex(int index, byte bit)
         {
-            if (index < 0 || index > this.bitArray.Count)
+            if (index < 0 || index > this.bitArray.Length)
             {
-                throw new ArgumentOutOfRangeException("Index is out of range.");
+                throw new IndexOutOfRangeException("Index is out of range.");
             }
             if (bit != 0 && bit != 1)
             {
@@ -86,7 +108,7 @@ namespace BitArray
         public override string ToString()
         {
             BigInteger result = 0;
-            for (int i = 0; i < this.bitArray.Count; i++)
+            for (int i = 0; i < this.bitArray.Length; i++)
             {
                 result += (BigInteger)(this.bitArray[i] * Math.Pow(2, i));
             }

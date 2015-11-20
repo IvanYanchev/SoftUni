@@ -7,7 +7,7 @@ using System.Numerics;
 
 namespace BitArray
 {
-    class Program
+    class ProgramMain
     {
         static void Main()
         {
@@ -25,6 +25,11 @@ namespace BitArray
             //{
             //    Console.WriteLine("Invalid input.");
             //}
+
+            BitArray num = new BitArray(99000);
+            num[3] = 1;
+            num[89000] = 1;
+            Console.WriteLine(num[9900]);
 
             BitArray someOtherNumber = new BitArray(1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1);
             

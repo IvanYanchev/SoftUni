@@ -10,27 +10,22 @@ namespace HtmlDispatcher
     {
         private string element = null;
 
-        public void AddAtribute(string attribute, string value)
+        public ElementBuilder(string name)
         {
-            int insertIndex = element.IndexOf('>');
+            this.element = string.Format("<{0}></{0}>", name);
+        }
+
+        public void AddAttribute(string attribute, string value)
+        {
+            int insertIndex = this.element.IndexOf('>');
             string insertAttr = string.Format(" {0}=\"{1}\"", attribute, value);
             this.element = this.element.Insert(insertIndex, insertAttr);
         }
 
         public void AddContent(string content)
         {
-            int insertIndex = element.IndexOf('>') + 1;
+            int insertIndex = this.element.IndexOf('>') + 1;
             this.element = this.element.Insert(insertIndex, content);
-        }
-
-        public ElementBuilder()
-        {
-
-        }
-
-        public ElementBuilder(string name)
-        {
-            this.element = string.Format("<{0}></{0}>", name);
         }
 
         public static string operator *(ElementBuilder element, int multiplier)
