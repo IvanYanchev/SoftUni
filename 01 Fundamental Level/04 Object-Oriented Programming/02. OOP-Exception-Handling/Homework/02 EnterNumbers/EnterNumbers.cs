@@ -1,24 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EnterNumbers
 {
     class EnterNumbers
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int start = 1;
-            int end = 100;
-            int count = 10;
+            Console.Write("Please enter start number: ");
+            int start = int.Parse(Console.ReadLine());
+            Console.Write("Please enter end number: ");
+            int end = int.Parse(Console.ReadLine());
+            Console.Write("Please enter number of numbers: ");
+            int count = int.Parse(Console.ReadLine());
             int[] numbers = new int[count];
 
-            Console.WriteLine("Plese enter 10 numbers: a1, a2, … a10, such that {0} < a1 < ... < a10 < {1}. ", start, end);
+            Console.WriteLine("Plese enter {0} numbers: a1, ... a{0}, such that {1} < a1 < ... < a{0} < {2}. ", count, start, end);
             for (int i = 0; i < count; i++)
             {
-                Console.Write("Number a{0} : ", i + 1);
+                Console.Write("Number a{0}: ", i + 1);
                 int number = ReadNumber(start, end - count + i + 1);
                 numbers[i] = number;
                 start = number;
@@ -27,17 +26,15 @@ namespace EnterNumbers
 
         static int ReadNumber(int start, int end)
         {
-            bool isNotEnteredValidNUmber = true;
-            int number = 0;
-            do
+            while (true)
             {
                 string input = Console.ReadLine();
                 try
                 {
-                    number = int.Parse(input);
+                    int number = int.Parse(input);
                     if (number > start && number < end)
                     {
-                        isNotEnteredValidNUmber = false;
+                        return number;
                     }
                     else
                     {
@@ -49,9 +46,7 @@ namespace EnterNumbers
                     Console.Error.Write("The entered number is not in valid format. Please enter valid number: ");
                 }
                 
-            } while (isNotEnteredValidNUmber);
-
-            return number;
+            }
         }
     }
 }

@@ -43,23 +43,23 @@ namespace BitArray
             }
         }
 
-        //public BitArray(BigInteger number)
-        //{
-        //    bitArray = new List<byte>();
+        public BitArray(BigInteger number)
+        {
+            List<byte> bits = new List<byte>();
 
-        //    while (true)
-        //    {
-        //        BigInteger result = number / 2;
-        //        byte remainder = (byte)(number % 2);
-        //        this.bitArray.Add(remainder);
-        //        if (result == 0)
-        //        {
-        //            break;
-        //        }
+            while (true)
+            {
+                byte remainder = (byte)(number % 2);
+                bits.Add(remainder);
+                number /= 2;
+                if (number == 0)
+                {
+                    break;
+                }
+            }
 
-        //        number = result;
-        //    }
-        //}
+            this.bitArray = bits.ToArray();
+        }
 
         public byte this[int index]
         {
