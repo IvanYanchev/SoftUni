@@ -16,6 +16,7 @@ namespace Shapes
                 new Circle(4.56),
                 new Triangle(2.4, 6.7),
                 new Rectangle(5.8, 3.75),
+                new Rhombus(1.1, 3.3), 
             };
 
             foreach (var shape in shapes)

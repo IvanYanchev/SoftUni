@@ -41,21 +41,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdvanceCinemaEngine.cs" />
     <Compile Include="Cinema.cs" />
     <Compile Include="CinemaEngine.cs" />
+    <Compile Include="Concert.cs" />
+    <Compile Include="ConcertHall.cs" />
     <Compile Include="IPerformance.cs" />
     <Compile Include="ITicket.cs" />
     <Compile Include="IVenue.cs" />
     <Compile Include="Movie.cs" />
     <Compile Include="NightlifeEntertainmentProgram.cs" />
+    <Compile Include="Opera.cs" />
     <Compile Include="Performance.cs" />
     <Compile Include="PerformanceType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegularTicket.cs" />
+    <Compile Include="SportsHall.cs" />
+    <Compile Include="StudentTicket.cs" />
+    <Compile Include="Theatre.cs" />
     <Compile Include="Ticket.cs" />
     <Compile Include="TicketStatus.cs" />
     <Compile Include="TicketType.cs" />
     <Compile Include="Venue.cs" />
+    <Compile Include="VipTicket.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

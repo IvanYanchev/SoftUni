@@ -73,7 +73,7 @@
             throw new NotImplementedException();
         }
 
-        protected void AddItem(string[] inputParams)
+        protected virtual void AddItem(string[] inputParams)
         {
             throw new NotImplementedException();
         }

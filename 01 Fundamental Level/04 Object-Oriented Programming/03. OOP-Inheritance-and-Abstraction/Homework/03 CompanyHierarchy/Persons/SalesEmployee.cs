@@ -12,7 +12,8 @@ namespace CompanyHierarchy.Persons
     {
         private List<Sale> sales = new List<Sale>();
 
-        public SalesEmployee(long id, string firstName, string lastName, int salary, Department dep, params Sale[] sales) : base(id, firstName, lastName, salary, dep)
+        public SalesEmployee(long id, string firstName, string lastName, int salary, Department dep, params Sale[] sales) 
+            : base(id, firstName, lastName, salary, dep)
         {
             this.Sales = sales.ToList();
         }

@@ -9,7 +9,7 @@ namespace Animals
 {
     class PlayWithAnimals
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Animal> myAnimals = new List<Animal>()
             {
@@ -27,6 +27,7 @@ namespace Animals
             foreach (var kind in myAnimals.GroupBy(x => x.GetType().Name))
             {
                 double averageAge = kind.Select(x => x.Age).Average();
+
                 Console.WriteLine("Animal : {0}, AverageAge: {1}", kind.Key, averageAge);
             }
         }

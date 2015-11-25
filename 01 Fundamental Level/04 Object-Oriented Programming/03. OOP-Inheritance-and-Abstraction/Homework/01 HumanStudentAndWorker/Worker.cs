@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HumanStudentAndWorker
+﻿namespace HumanStudentAndWorker
 {
     public class Worker : Human
     {
         private int weekSalary;
         private int workHoursPerDay;
 
-        public Worker(string firstName, string LastName, int weekSalary, int workHoursPerDay) : base(firstName, LastName)
+        public Worker(string firstName, string lastName, int weekSalary, int workHoursPerDay)
+            : base(firstName, lastName)
         {
             this.WeekSalary = weekSalary;
             this.WorkHoursPerDay = workHoursPerDay;
@@ -22,7 +17,7 @@ namespace HumanStudentAndWorker
 
         public double MoneyPerHour()
         {
-            double money = (double)this.WeekSalary / (5 * (double)this.WorkHoursPerDay);
+            double money = (double)this.WeekSalary / (5.0 * this.WorkHoursPerDay);
             return money;
         }
     }

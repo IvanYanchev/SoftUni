@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Shapes
 {
-    public class Triangle :BasicShape
+    public class Triangle : BasicShape
     {
         public Triangle(double width, double height)
-            : base (width, height)
+            : base(width, height)
         {
 
         }

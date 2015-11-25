@@ -15,9 +15,9 @@ namespace BankOfKurtovoKonare
             Customer indiv2 = new IndividualCustomer("Georgi Georgiev", 394854398348);
             Customer comp = new CompanyCustomer("ET Dai Var", 3984573498);
 
-            DepositAccount acc1 = new DepositAccount(indiv1, 980, 0.05M);
-            Account acc2 = new LoanAccount(comp, 15000, 0.25M);
-            Account acc3 = new MortgageAccount(indiv2, 65000, 0.15M);
+            DepositAccount acc1 = new DepositAccount(indiv1, 980, 0.05m);
+            Account acc2 = new LoanAccount(comp, 15000, 0.25m);
+            Account acc3 = new MortgageAccount(indiv2, 65000, 0.15m);
 
             Console.WriteLine(acc1.CalculateInterest(6)); 
             acc1.DepositMoney(250);

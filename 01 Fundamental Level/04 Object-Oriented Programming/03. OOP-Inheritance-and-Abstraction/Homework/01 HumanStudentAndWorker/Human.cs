@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace HumanStudentAndWorker
 {
     public abstract class Human
     {
-        private string firstName = null;
-        private string lastName = null;
+        private string firstName;
+        private string lastName;
 
         protected Human(string firstName, string lastName)
         {
@@ -17,8 +13,17 @@ namespace HumanStudentAndWorker
             this.LastName = lastName;
         }
 
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FirstName
+        {
+            get { return this.firstName; }
+            set { this.firstName = value; }
+        }
+
+        public string LastName
+        {
+            get { return this.lastName; }
+            set { this.lastName = value; }
+        }
 
         public override string ToString()
         {

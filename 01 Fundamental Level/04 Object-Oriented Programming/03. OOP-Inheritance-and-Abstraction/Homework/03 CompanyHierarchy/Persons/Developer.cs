@@ -22,7 +22,7 @@ namespace CompanyHierarchy.Persons
 
         public void AddProject(Project project)
         {
-            this.projects.Add(project);
+            this.Projects.Add(project);
         }
 
         public override string ToString()

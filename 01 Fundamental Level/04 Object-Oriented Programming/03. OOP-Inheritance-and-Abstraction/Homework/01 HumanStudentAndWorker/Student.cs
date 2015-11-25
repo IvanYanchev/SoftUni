@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HumanStudentAndWorker
 {
@@ -10,7 +7,8 @@ namespace HumanStudentAndWorker
     {
         private string facultyNumber;
 
-        public Student(string firstname, string lastName, string facultyNumber) : base(firstname, lastName)
+        public Student(string firstname, string lastName, string facultyNumber) 
+            : base(firstname, lastName)
         {
             this.FacultyNumber = facultyNumber;
         }
@@ -20,9 +18,9 @@ namespace HumanStudentAndWorker
             get { return this.facultyNumber; } 
             set
             {
-                if (value.Length < 5 || value.Length > 10)
+                if (value.Length < 5 || value.Length > 10 || value.Any(c => !char.IsLetterOrDigit(c)))
                 {
-                    throw new ArgumentException("Faculty number has to be 5..10 symbols long");
+                    throw new ArgumentException("Faculty number has to be 5-10 digits / letters");
                 }
                 else
                 {
@@ -30,10 +28,5 @@ namespace HumanStudentAndWorker
                 }
             } 
         }
-
-        //public override string ToString()
-        //{
-        //    return base.FirstName + " " + base.LastName;
-        //}
     }
 }

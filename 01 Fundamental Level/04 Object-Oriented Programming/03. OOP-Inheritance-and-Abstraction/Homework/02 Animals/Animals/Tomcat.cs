@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Animals.Animals
 {
@@ -16,7 +12,7 @@ namespace Animals.Animals
 
         public override void ProduceSound()
         {
-            Console.WriteLine("Myauuuuu"); ;
+            Console.WriteLine("Myauuuuu");
         }
     }
 }

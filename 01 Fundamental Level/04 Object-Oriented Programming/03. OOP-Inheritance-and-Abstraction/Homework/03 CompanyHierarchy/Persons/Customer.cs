@@ -11,7 +11,8 @@ namespace CompanyHierarchy.Persons
     {
         private double netPurchaseAmount = 0;
 
-        public Customer(long id, string firstName, string lastName) : base(id, firstName, lastName)
+        public Customer(long id, string firstName, string lastName) 
+            : base(id, firstName, lastName)
         {
 
         }
