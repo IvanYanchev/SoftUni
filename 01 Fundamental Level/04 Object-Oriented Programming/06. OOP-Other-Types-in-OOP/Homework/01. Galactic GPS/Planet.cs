@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Galactic_GPS
+﻿namespace _01.Galactic_GPS
 {
     public enum Planet
     {

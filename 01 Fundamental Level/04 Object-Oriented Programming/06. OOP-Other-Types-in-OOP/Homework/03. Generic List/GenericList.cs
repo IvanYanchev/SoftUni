@@ -1,13 +1,10 @@
 ﻿using _04.Generic_List_Version;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _03.Generic_List
 {
-    [VersionAttribute(1,0)]
+    [VersionAttribute(1, 0)]
     public class GenericList<T> where T : IComparable<T>
     {
         private const int DefaultCapacity = 16;
@@ -35,7 +32,7 @@ namespace _03.Generic_List
         //o	accessing element by index
         public T this[int index]
         {
-            get 
+            get
             {
                 if (this.IsEmpty())
                 {
@@ -46,9 +43,9 @@ namespace _03.Generic_List
                     throw new IndexOutOfRangeException("Index is out of range.");
                 }
 
-                return this.elements[index]; 
+                return this.elements[index];
             }
-            set 
+            set
             {
                 if (this.IsEmpty())
                 {
@@ -59,7 +56,7 @@ namespace _03.Generic_List
                     throw new IndexOutOfRangeException("Index is out of range.");
                 }
 
-                this.elements[index] = value; 
+                this.elements[index] = value;
             }
         }
 
@@ -118,7 +115,7 @@ namespace _03.Generic_List
         {
             for (int i = 0; i < this.currentIndex; i++)
             {
-                if (this.elements[i].Equals(element)) 
+                if (this.elements[i].Equals(element))
                 {
                     return i;
                 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _02.Fraction_Calculator
 {
@@ -11,7 +7,8 @@ namespace _02.Fraction_Calculator
         private long numerator;
         private long denominator;
 
-        public Fraction(long numerator, long denominator) : this()
+        public Fraction(long numerator, long denominator)
+            : this()
         {
             this.Numerator = numerator;
             this.Denominator = denominator;
@@ -29,7 +26,7 @@ namespace _02.Fraction_Calculator
             }
         }
 
-        public long Denominator 
+        public long Denominator
         {
             get
             {
@@ -45,7 +42,7 @@ namespace _02.Fraction_Calculator
             }
         }
 
-        public static Fraction operator+(Fraction fract1, Fraction fract2)
+        public static Fraction operator +(Fraction fract1, Fraction fract2)
         {
             Fraction result = new Fraction();
 
@@ -55,7 +52,7 @@ namespace _02.Fraction_Calculator
             return result;
         }
 
-        public static Fraction operator-(Fraction fract1, Fraction fract2)
+        public static Fraction operator -(Fraction fract1, Fraction fract2)
         {
             Fraction result = new Fraction();
 
