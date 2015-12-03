@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Drawing;
 using Novacode;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace _05.Word_Document_Generator
 {
@@ -14,12 +16,12 @@ namespace _05.Word_Document_Generator
                 using (var reader = new StreamReader("../../text.txt"))
                 {
                     //Text above picture
-                    Paragraph paragraph = document.InsertParagraph();
+                    var paragraph = document.InsertParagraph();
                     paragraph.Alignment = Alignment.center;
                     paragraph.Append(reader.ReadLine()).FontSize(24).Bold();
 
                     //Picture
-                    Novacode.Image img = document.AddImage(@"../../rpg-game.png");
+                    var img = document.AddImage(@"../../rpg-game.png");
 
                     paragraph = document.InsertParagraph();
 
@@ -29,10 +31,15 @@ namespace _05.Word_Document_Generator
 
                     paragraph.InsertPicture(picture);
 
+
                     //3 lines of text bellow picture
                     for (int i = 0; i < 3; i++)
                     {
-                        document.InsertParagraph(reader.ReadLine());
+                        paragraph = document.InsertParagraph();
+                        paragraph.Append(reader.ReadLine());
+                        paragraph.ReplaceText("role playing game", "role playing game", false, RegexOptions.None, new Formatting() { Bold = true });
+
+                        paragraph.ReplaceText("grand prize!", "grand prize!", false, RegexOptions.None, new Formatting() { UnderlineStyle = UnderlineStyle.singleLine });
                     }
 
                     //Bullets
@@ -47,16 +54,22 @@ namespace _05.Word_Document_Generator
                     document.InsertParagraph(reader.ReadLine());
 
                     //Table
-                    Table table = document.AddTable(4, 3);
+                    var table = document.AddTable(4, 3);
                     table.Alignment = Alignment.center;
-                    table.Design = TableDesign.MediumGrid1Accent1;
+                    table.Design = TableDesign.TableGrid;
+
+                    for (int i = 0; i < 3; i++)
+                    {
+                        table.Rows[0].Cells[i].FillColor = Color.CornflowerBlue;
+                    }
+
 
                     for (int row = 0; row < 4; row++)
                     {
-                        string[] rowContent = reader.ReadLine().Split(new char[] {' ', '\t'});
+                        string[] rowContent = reader.ReadLine().Split(new char[] { ' ', '\t' });
                         for (int col = 0; col < rowContent.Length; col++)
                         {
-                            table.Rows[row].Cells[col].Paragraphs.First().Append(rowContent[col]);
+                            table.Rows[row].Cells[col].Paragraphs.First().Append(rowContent[col]).Alignment = Alignment.center;
                         }
                     }
 
@@ -67,12 +80,15 @@ namespace _05.Word_Document_Generator
 
                     //Last two lines of text
                     paragraph = document.InsertParagraph();
-                    paragraph.Alignment = Alignment.center;
-                    paragraph.Append(reader.ReadLine()).FontSize(14);
+                    paragraph.Append(reader.ReadLine()).Alignment = Alignment.center;
+                    paragraph.ReplaceText("SPECTACULAR", "SPECTACULAR", false, RegexOptions.None, new Formatting() { Bold = true });
 
                     paragraph = document.InsertParagraph();
-                    paragraph.Alignment = Alignment.center;
-                    paragraph.Append(reader.ReadLine()).FontSize(22).UnderlineStyle(UnderlineStyle.singleLine);
+                    paragraph.Append(reader.ReadLine())
+                        .FontSize(20)
+                        .Font(new FontFamily("Arial"))
+                        .UnderlineStyle(UnderlineStyle.singleLine)
+                        .Alignment = Alignment.center;
                 }
 
                 document.Save();
